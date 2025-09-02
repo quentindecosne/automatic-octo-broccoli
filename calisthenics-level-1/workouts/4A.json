@@ -11,10 +11,12 @@
           "exerciseId": "push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 60
         }
@@ -27,14 +29,16 @@
       "rounds": 3,
       "items": [
         {
-          "id": "push-up-a2",
-          "exerciseId": "push-up",
+          "id": "body-row",
+          "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 60
         }
@@ -51,10 +55,12 @@
           "exerciseId": "jumping-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 1, "max": 999 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "up": "X" },
-            "toFailure": "each"
+            "target": {
+              "reps": null
+            },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": { "down": 1, "up": "X" }
           },
           "restAfterSec": 60
         }
@@ -71,10 +77,12 @@
           "exerciseId": "hollow-body-crunch",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": 10,
-            "tempo": { "down": 2, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": 2 }
           },
           "restAfterSec": 60
         }
@@ -91,10 +99,12 @@
           "exerciseId": "swimmer",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 60
         }

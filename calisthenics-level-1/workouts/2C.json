@@ -1,19 +1,22 @@
 {
-  "id": "3A",
-  "title": "Workout 3A",
+  "id": "2C",
+  "title": "Workout 2C",
   "blocks": [
     {
       "type": "straight",
       "rounds": 4,
       "items": [
         {
-          "id": "band-assist-pullup",
-          "exerciseId": "band-assist-pullup",
+          "id": "band-assist-pull-up",
+          "exerciseId": "band-assist-pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "tempo": { "down": "X", "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": "X", "up": 2 }
           }
         },
         {
@@ -21,9 +24,12 @@
           "exerciseId": "band-assist-dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "tempo": { "down": 2, "up": "X" },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": "X" }
           }
         }
       ],
@@ -39,9 +45,12 @@
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "tempo": { "down": 2, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": 2 }
           }
         }
       ],
@@ -53,13 +62,16 @@
       "rounds": 5,
       "items": [
         {
-          "id": "single-leg-bridge",
-          "exerciseId": "single-leg-bridge",
+          "id": "single-leg-glute-bridge",
+          "exerciseId": "single-leg-glute-bridge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "tempo": { "down": 1, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 2 }
           }
         }
       ],

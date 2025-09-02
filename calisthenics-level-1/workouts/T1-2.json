@@ -11,10 +11,12 @@
           "exerciseId": "easy-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 20, "max": 20 } },
-            "tempo": { "down": 1, "pause": 2, "up": 1 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 20, "max": 20 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           }
         }
       ],
@@ -30,11 +32,12 @@
           "exerciseId": "squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": "RM",
-            "tempo": { "down": 2, "pause": 0, "up": 1 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
           }
         }
       ],
@@ -50,9 +53,12 @@
           "exerciseId": "pike-hold",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           }
         }
       ],
@@ -68,9 +74,12 @@
           "exerciseId": "plank",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           }
         }
       ],
@@ -86,9 +95,12 @@
           "exerciseId": "horse-stance",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 30, "max": 50 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 30, "max": 50 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           }
         }
       ],

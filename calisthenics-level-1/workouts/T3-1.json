@@ -11,8 +11,10 @@
           "exerciseId": "band-assist-pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
             "tempo": { "down": "X", "up": 2 },
             "toFailure": "none"
           }
@@ -29,8 +31,10 @@
           "exerciseId": "band-assist-dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
             "tempo": { "down": 2, "up": "X" },
             "toFailure": "none"
           }
@@ -47,8 +51,10 @@
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
             "tempo": { "down": 2, "up": 2 },
             "toFailure": "none"
           }
@@ -65,8 +71,10 @@
           "exerciseId": "single-leg-glute-bridge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
             "tempo": { "down": 1, "pause": 2, "up": 1 },
             "toFailure": "none"
           }

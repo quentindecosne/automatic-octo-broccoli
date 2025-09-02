@@ -11,10 +11,12 @@
           "exerciseId": "band-assist-pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 8,
-            "tempo": { "down": "X", "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": "X", "up": 2 }
           },
           "restAfterSec": 120
         },
@@ -23,10 +25,12 @@
           "exerciseId": "band-assist-dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 8,
-            "tempo": { "down": 1, "up": "X" },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": "X" }
           },
           "restAfterSec": 120
         }
@@ -43,10 +47,12 @@
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 8,
-            "tempo": { "down": 2, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": 2 }
           },
           "restAfterSec": 120
         },
@@ -55,10 +61,12 @@
           "exerciseId": "single-leg-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 8,
-            "tempo": { "down": 1, "pause": 2, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           },
           "restAfterSec": 120
         }

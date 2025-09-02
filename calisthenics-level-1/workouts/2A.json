@@ -1,6 +1,6 @@
 {
-  "id": "1A",
-  "title": "Workout 1A",
+  "id": "2A",
+  "title": "Workout 2A",
   "blocks": [
     {
       "type": "circuit",
@@ -11,9 +11,12 @@
           "exerciseId": "pike-stand",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
-            "intensityType": "9",
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 30
         },
@@ -22,10 +25,12 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": "9",
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "last"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 30
         },
@@ -34,10 +39,12 @@
           "exerciseId": "lunge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": "9",
-            "tempo": { "down": 1, "pause": 0, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
           },
           "restAfterSec": 30
         },
@@ -46,10 +53,12 @@
           "exerciseId": "hollow-body-crunch",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": "9",
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],

@@ -11,10 +11,12 @@
           "exerciseId": "band-assist-pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
-            "tempo": { "down": { "kind": "x" }, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": "X", "pause": 0, "up": 2 }
           }
         }
       ],
@@ -30,10 +32,12 @@
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],
@@ -49,10 +53,12 @@
           "exerciseId": "band-assist-dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
-            "intensityType": 10,
-            "tempo": { "down": 2, "pause": 0, "up": "X" },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 3, "max": 8 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": "X" }
           }
         }
       ],
@@ -68,10 +74,12 @@
           "exerciseId": "single-leg-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],

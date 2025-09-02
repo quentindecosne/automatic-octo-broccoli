@@ -1,6 +1,6 @@
 {
-  "id": "1B",
-  "title": "Workout 1B",
+  "id": "2B",
+  "title": "Workout 2B",
   "blocks": [
     {
       "type": "circuit",
@@ -11,10 +11,12 @@
           "exerciseId": "incline-push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": "9",
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 20
         },
@@ -23,10 +25,12 @@
           "exerciseId": "easy-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 20, "max": 20 } },
-            "tempo": { "down": 1, "pause": 2, "up": 1 },
-            "intensityType": 9,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 20, "max": 20 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           },
           "restAfterSec": 20
         },
@@ -35,10 +39,12 @@
           "exerciseId": "squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 2, "pause": 0, "up": 1 },
-            "intensityType": 9,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
           },
           "restAfterSec": 20
         },
@@ -47,9 +53,12 @@
           "exerciseId": "plank",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
-            "intensityType": 9,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 0
         }

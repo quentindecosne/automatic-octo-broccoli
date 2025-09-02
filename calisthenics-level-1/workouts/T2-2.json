@@ -11,9 +11,12 @@
           "exerciseId": "incline-push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 300
         },
@@ -22,9 +25,12 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 300
         },
@@ -33,10 +39,12 @@
           "exerciseId": "jumping-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 1, "max": 999 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "pause": 0, "up": { "kind": "x" } },
-            "toFailure": "each"
+            "target": {
+              "reps": null
+            },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": { "down": 1, "pause": 0, "up": "X" }
           },
             "restAfterSec": 300
         },
@@ -45,10 +53,12 @@
           "exerciseId": "swimmer",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 10,
-            "tempo": { "down": 1, "pause": 0, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
           },
           "restAfterSec": 0
         }

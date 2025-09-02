@@ -11,10 +11,12 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "intensityType": 10,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],
@@ -30,10 +32,12 @@
           "exerciseId": "lunge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 1, "pause": 0, "up": 1 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
           }
         }
       ],
@@ -49,10 +53,12 @@
           "exerciseId": "hollow-body-crunch",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],
@@ -68,10 +74,12 @@
           "exerciseId": "incline-push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],
@@ -87,10 +95,12 @@
           "exerciseId": "side-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           }
         }
       ],

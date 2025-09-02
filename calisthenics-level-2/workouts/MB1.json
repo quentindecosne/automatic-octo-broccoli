@@ -11,8 +11,12 @@
           "exerciseId": "pike-stand",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 60, "max": 90 } },
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 60, "max": 90 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 30
         },
@@ -21,10 +25,12 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 20, "max": 30 } },
-            "intensityType": "9",
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "last"
+            "target": {
+              "reps": { "min": 20, "max": 30 }
+            },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 30
         },
@@ -33,9 +39,12 @@
           "exerciseId": "lunge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 20, "max": 30 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 20, "max": 30 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 30
         },
@@ -44,9 +53,12 @@
           "exerciseId": "hollow",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 20, "max": 30 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 20, "max": 30 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 90
         }
@@ -62,8 +74,12 @@
           "exerciseId": "pike-stand",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 90, "max": 120 } },
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 90, "max": 120 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 120
         }

@@ -11,9 +11,11 @@
           "exerciseId": "pike-hold",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 50, "max": 80 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 300
         },
@@ -22,9 +24,11 @@
           "exerciseId": "active-hang",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 15, "max": 30 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 15, "max": 30 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 300
         },
@@ -33,9 +37,11 @@
           "exerciseId": "easy-bridge",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 30, "max": 40 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 30, "max": 40 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 300
         },
@@ -44,9 +50,11 @@
           "exerciseId": "plank",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 40, "max": 80 } },
-            "intensityType": 10,
-            "toFailure": "none"
+            "target": {
+              "timeSec": { "min": 40, "max": 80 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
           },
           "restAfterSec": 0
         }

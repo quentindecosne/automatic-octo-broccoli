@@ -11,10 +11,12 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 8,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "last"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 60
         },
@@ -23,10 +25,12 @@
           "exerciseId": "push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 8,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
-            "toFailure": "last"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 60
         }
@@ -43,10 +47,12 @@
           "exerciseId": "jumping-lunge",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 1, "max": 999 } },
-            "intensityType": 8,
-            "tempo": { "down": 1, "pause": 0, "up": "X" },
-            "toFailure": "last"
+            "target": {
+              "reps": null
+            },
+            "rpe": 10,
+            "toFailure": "last",
+            "tempo": { "down": 1, "pause": 0, "up": "X" }
           },
           "restAfterSec": 60
         },
@@ -55,9 +61,12 @@
           "exerciseId": "knee-to-elbow",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 8,
-            "toFailure": "last"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 1, "up": 1 }
           },
           "restAfterSec": 60
         }
@@ -74,10 +83,12 @@
           "exerciseId": "arch-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
-            "intensityType": 8,
-            "tempo": { "down": 1, "pause": 2, "up": 1 },
-            "toFailure": "none"
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           }
         }
       ],
