@@ -1,0 +1,17 @@
+{
+  "programId": "knee-ability-zero",
+  "programTitle": "Knees Over Toes – Abiliy Zero",
+  "contentVersion": "1.0.0",
+  "phases": [
+    {
+      "id": "P1",
+      "title": "Main Phase",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "pattern": ["kot-ability-zero", "REST", "kot-ability-zero", "REST", "kot-ability-zero", "REST", "REST"]
+        }
+      ]
+    }
+  ]
+}

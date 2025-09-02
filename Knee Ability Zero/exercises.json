@@ -1,0 +1,188 @@
+{
+  "reverse-out-knee-pain": {
+    "name": "Reverse Out Knee Pain",
+    "description": "Warm-up drill often done with a sled or reverse walk to reduce knee discomfort and prepare for training.",
+    "instructions": [
+      "Attach sled or resistance to waist or hands",
+      "Walk backward slowly, keeping knees bent slightly",
+      "Focus on controlled steps and knee tracking"
+    ],
+    "tips": [
+      "Stay upright, don’t lean back",
+      "Keep steps short and consistent"
+    ],
+    "muscles": ["quads", "glutes", "calves"],
+    "equipment": ["sled", "bodyweight"],
+    "difficulty": "beginner"
+  },
+
+  "tibialis-raise": {
+    "name": "Tibialis Raise",
+    "description": "Strengthens the tibialis anterior muscle to protect the knee and improve ankle dorsiflexion.",
+    "instructions": [
+      "Stand with back against a wall, heels 10–15 cm away",
+      "Lift toes toward shins, keeping heels planted",
+      "Lower toes slowly back down"
+    ],
+    "tips": [
+      "Keep knees slightly bent",
+      "Focus on controlled movement"
+    ],
+    "muscles": ["tibialis-anterior"],
+    "equipment": ["bodyweight", "wall"],
+    "difficulty": "beginner"
+  },
+
+  "fhl-calf-raise": {
+    "name": "FHL Calf Raise",
+    "description": "Strengthens the flexor hallucis longus and calves for ankle and knee resilience.",
+    "instructions": [
+      "Stand on one foot on a step",
+      "Raise up onto the ball of your foot, emphasizing big toe drive",
+      "Lower back down slowly"
+    ],
+    "tips": [
+      "Hold onto support for balance",
+      "Focus on pushing through the big toe"
+    ],
+    "muscles": ["calves", "foot-flexors"],
+    "equipment": ["step", "bodyweight"],
+    "difficulty": "beginner"
+  },
+
+  "kot-calf-raise": {
+    "name": "KOT Calf Raise",
+    "description": "Calf raise variation emphasizing knee-over-toe position.",
+    "instructions": [
+      "Stand with feet shoulder-width apart",
+      "Bend knees slightly forward over toes",
+      "Raise heels up while maintaining knee position"
+    ],
+    "tips": [
+      "Don’t let knees collapse inward",
+      "Controlled tempo is more important than load"
+    ],
+    "muscles": ["calves", "quads"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner"
+  },
+
+  "patrick-step": {
+    "name": "Patrick Step",
+    "description": "Step-down exercise targeting VMO and knee tracking over toes.",
+    "instructions": [
+      "Stand on elevated surface",
+      "Lower working leg forward while bending support knee",
+      "Lightly tap heel on ground and return"
+    ],
+    "tips": [
+      "Keep working knee aligned over toes",
+      "Control the descent"
+    ],
+    "muscles": ["quads", "glutes"],
+    "equipment": ["box", "step"],
+    "difficulty": "beginner"
+  },
+
+  "atg-split-squat": {
+    "name": "ATG Split Squat",
+    "description": "Deep split squat emphasizing forward knee travel and hip extension.",
+    "instructions": [
+      "Start in split stance with back foot elevated",
+      "Lower back knee to ground while front knee travels over toes",
+      "Return to starting position"
+    ],
+    "tips": [
+      "Keep front heel flat",
+      "Stay upright through torso"
+    ],
+    "muscles": ["quads", "hamstrings", "glutes", "hip-flexors"],
+    "equipment": ["bodyweight"],
+    "difficulty": "intermediate"
+  },
+
+  "kot-squat": {
+    "name": "KOT Squat",
+    "description": "Full-depth squat variation with knees intentionally tracking forward past toes.",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Squat down while allowing knees to travel forward",
+      "Return to standing with control"
+    ],
+    "tips": [
+      "Keep heels grounded",
+      "Maintain upright posture"
+    ],
+    "muscles": ["quads", "glutes", "core"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner"
+  },
+
+  "elephant-walk": {
+    "name": "Elephant Walk",
+    "description": "Dynamic hamstring and calf stretch performed by alternating leg reaches.",
+    "instructions": [
+      "Stand tall, hinge at hips to touch toes",
+      "Alternate bending one knee while straightening the other",
+      "Switch sides rhythmically"
+    ],
+    "tips": [
+      "Move slowly, don’t bounce",
+      "Focus on hamstring stretch"
+    ],
+    "muscles": ["hamstrings", "calves"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner"
+  },
+
+  "l-sit": {
+    "name": "L-Sit",
+    "description": "Core and hip-flexor isometric hold with legs extended.",
+    "instructions": [
+      "Sit on floor with legs straight",
+      "Press hands into ground, lift legs off floor",
+      "Hold position with straight back"
+    ],
+    "tips": [
+      "Engage core and quads",
+      "Start with bent knees if too difficult"
+    ],
+    "muscles": ["core", "hip-flexors", "quads"],
+    "equipment": ["floor", "parallettes"],
+    "difficulty": "intermediate"
+  },
+
+  "couch-stretch": {
+    "name": "Couch Stretch",
+    "description": "Static stretch for quads and hip flexors performed against a wall or couch.",
+    "instructions": [
+      "Place back shin against wall or couch",
+      "Step front foot forward into lunge",
+      "Hold upright posture while stretching quad"
+    ],
+    "tips": [
+      "Squeeze glutes to intensify stretch",
+      "Keep chest tall"
+    ],
+    "muscles": ["quads", "hip-flexors"],
+    "equipment": ["wall", "couch"],
+    "difficulty": "beginner"
+  },
+
+  "outer-glute-stretch": {
+    "name": "Outer Glute Stretch",
+    "description": "Stretch for glutes and hip rotators performed seated or lying.",
+    "instructions": [
+      "Sit with one leg crossed over the other",
+      "Pull top knee toward opposite shoulder",
+      "Hold and breathe deeply"
+    ],
+    "tips": [
+      "Keep spine long",
+      "Don’t force the stretch"
+    ],
+    "muscles": ["glutes", "hip-rotators"],
+    "equipment": ["bodyweight"],
+    "difficulty": "beginner"
+  }
+}
