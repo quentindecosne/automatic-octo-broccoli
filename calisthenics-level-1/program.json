@@ -6,42 +6,106 @@
     {
       "id": "P1",
       "title": "Phase 1",
-      "trainingWeeks": 3,
-      "trainingPattern": ["1A", "REST", "1B", "REST", "1A", "REST", "REST"],
-      "testWeek": {
-        "enabled": true,
-        "pattern": ["T1-1", "REST", "T1-2", "REST", "REST", "REST", "REST"]
-      }
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "pattern": ["T1-1", "REST", "T1-2", "REST", "REST", "REST", "REST"]
+        },
+        {
+          "weekNumber": 2,
+          "pattern": ["1A", "REST", "1B", "REST", "REST", "REST", "REST"]
+        },
+        {
+          "weekNumber": 3,
+          "pattern": ["1A", "REST", "1B", "REST", "REST", "REST", "REST"]
+        },
+        {
+          "weekNumber": 4,
+          "pattern": ["1A", "REST", "1B", "REST", "1A", "REST", "REST"]
+        },
+
+      ]
     },
     {
       "id": "P2",
       "title": "Phase 2",
-      "trainingWeeks": 4,
-      "trainingPattern": ["2A", "REST", "2B", "REST", "2C", "REST", "REST"],
-      "testWeek": {
-        "enabled": true,
-        "pattern": ["T2-1", "REST", "T2-2", "REST", "T2-3", "REST", "REST"]
-      }
+      "weeks": [
+        {
+          "weekNumber": 5,
+          "pattern": ["T2-1", "REST", "T2-2", "REST", "T2-3", "REST", "REST"]
+        },
+        {
+          "weekNumber": 6,
+          "pattern": ["2A", "REST", "2B", "REST", "2C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 7,
+          "pattern": ["2A", "REST", "2B", "REST", "2C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 8,
+          "pattern": ["2A", "REST", "2B", "REST", "2C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 9,
+          "pattern": ["2A", "REST", "2B", "REST", "2C", "REST", "REST"]
+        },
+
+      ]
     },
     {
       "id": "P3",
       "title": "Phase 3",
-      "trainingWeeks": 4,
-      "trainingPattern": ["3A", "REST", "3A", "REST", "3B", "REST", "REST"],
-      "testWeek": {
-        "enabled": true,
-        "pattern": ["T3-1", "REST", "T3-2", "REST", "REST", "REST", "REST"]
-      }
+      "weeks": [
+        {
+          "weekNumber": 10,
+          "pattern": ["T3-1", "REST", "T3-2", "REST", "REST", "REST", "REST"]
+        },
+        {
+          "weekNumber": 11,
+          "pattern": ["3A", "REST", "3A", "REST", "3B", "REST", "REST"]
+        },
+        {
+          "weekNumber": 12,
+          "pattern": ["3A", "REST", "3A", "REST", "3B", "REST", "REST"]
+        },
+        {
+          "weekNumber": 13,
+          "pattern": ["3A", "REST", "3A", "REST", "3B", "REST", "REST"]
+        },
+        {
+          "weekNumber": 14,
+          "pattern": ["3A", "REST", "3A", "REST", "3B", "REST", "REST"]
+        },
+
+      ]
     },
     {
       "id": "P4",
       "title": "Phase 4",
-      "trainingWeeks": 4,
-      "trainingPattern": ["4A", "REST", "4B", "REST", "4C", "REST", "REST"],
-      "testWeek": {
-        "enabled": true,
-        "pattern": ["T4-1", "REST", "T4-2", "REST", "T4-3", "REST", "REST"]
-      }
+      "weeks": [
+        {
+          "weekNumber": 15,
+          "pattern": ["T4-1", "REST", "T4-2", "REST", "T4-3", "REST", "REST"]
+        },
+        {
+          "weekNumber": 16,
+          "pattern": ["4A", "REST", "4B", "REST", "4C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 17,
+          "pattern": ["4A", "REST", "4B", "REST", "4C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 18,
+          "pattern": ["4A", "REST", "4B", "REST", "4C", "REST", "REST"]
+        },
+        {
+          "weekNumber": 19,
+          "pattern": ["4A", "REST", "4B", "REST", "4C", "REST", "REST"]
+        },
+
+      ]
     }
   ]
 }
