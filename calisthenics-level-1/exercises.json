@@ -1,0 +1,42 @@
+{
+  "pike-stand": {
+    "description": "Start in a downward dog position with hands on the ground. Walk your feet closer to your hands while keeping legs straight. Hold this inverted V position.",
+    "tips": [
+      "Keep your back straight",
+      "Push through your shoulders",
+      "Look at your hands, not your feet"
+    ],
+    "muscles": ["Shoulders", "Core", "Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "body-row": {
+    "description": "Lie under a bar or table. Grab the bar with an overhand grip and pull your chest up towards it. Lower yourself back down with control.",
+    "tips": [
+      "Keep your body straight like a plank",
+      "Pull your chest to the bar",
+      "Control the descent"
+    ],
+    "muscles": ["Lats", "Rhomboids", "Biceps"],
+    "difficulty": "Beginner"
+  },
+  "lunge": {
+    "description": "Step forward into a lunge position. Lower your back knee toward the ground while keeping your front knee over your ankle. Push back to starting position.",
+    "tips": [
+      "Keep your torso upright",
+      "Don't let your front knee go past your toes",
+      "Control the descent"
+    ],
+    "muscles": ["Quadriceps", "Glutes", "Calves"],
+    "difficulty": "Beginner"
+  },
+  "hollow-body-crunch": {
+    "description": "Lie on your back with arms extended overhead. Press your lower back into the ground and lift your shoulders and legs off the floor into a hollow position.",
+    "tips": [
+      "Keep lower back pressed to floor",
+      "Engage your core throughout",
+      "Keep arms and legs straight"
+    ],
+    "muscles": ["Core", "Hip Flexors"],
+    "difficulty": "Beginner"
+  }
+}

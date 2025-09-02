@@ -1,0 +1,17 @@
+
+{
+  "id": "S1",
+  "title": "Straight Sets – Pike Stand",
+  "blocks": [
+    {
+      "type": "straight",
+      "items": [
+        { "id": "pike-stand", "name": "Pike Stand" }
+      ],
+      "rounds": 3,
+      "restBetweenExercisesSec": 0,
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 0
+    }
+  ]
+}

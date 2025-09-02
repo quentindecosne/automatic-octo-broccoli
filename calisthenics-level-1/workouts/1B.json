@@ -1,0 +1,73 @@
+{
+  "id": "1B",
+  "title": "Workout 1B",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "pike-stand",
+          "exerciseId": "pike-stand",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "active-hang",
+          "exerciseId": "active-hang",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "toFailure": "each"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "easy-bridge",
+          "exerciseId": "easy-bridge",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 40 } },
+            "toFailure": "last"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "plank",
+          "exerciseId": "plank",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "toFailure": "last"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

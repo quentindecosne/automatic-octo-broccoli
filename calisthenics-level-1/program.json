@@ -1,0 +1,16 @@
+{
+  "programId": "calisthenics-level-1",
+  "programTitle": "Calisthenics – Level 1",
+  "level": 1,
+  "title": "Level 1",
+  "contentVersion": "1.0.0",
+  "phases": [
+    {
+      "id": "P1",
+      "title": "Phase 1",
+      "trainingWeeks": 4,
+      "trainingPattern": ["1A", "REST", "1B", "REST", "3A", "REST"],
+      "testWeek": { "enabled": false, "pattern": [] }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pike-stand": {
+    "description": "Advanced pike position with deeper compression. Focus on maintaining straight legs while increasing shoulder flexion.",
+    "tips": [
+      "Increase compression gradually",
+      "Maintain shoulder engagement",
+      "Keep weight distributed evenly"
+    ],
+    "muscles": ["Shoulders", "Core", "Hamstrings"],
+    "difficulty": "Intermediate"
+  },
+  "body-row": {
+    "description": "Advanced body row with elevated feet or added resistance. Focus on full range of motion and controlled tempo.",
+    "tips": [
+      "Elevate feet for increased difficulty",
+      "Full range of motion to chest",
+      "Control the eccentric phase"
+    ],
+    "muscles": ["Lats", "Rhomboids", "Biceps"],
+    "difficulty": "Intermediate"
+  },
+  "lunge": {
+    "description": "Advanced lunge variations including jumping lunges or weighted lunges. Focus on explosive power and stability.",
+    "tips": [
+      "Add explosive jump between reps",
+      "Maintain balance throughout",
+      "Land softly on each rep"
+    ],
+    "muscles": ["Quadriceps", "Glutes", "Calves"],
+    "difficulty": "Intermediate"
+  },
+  "hollow": {
+    "description": "Advanced hollow body hold with leg extensions or rock variations. Maintain core tension throughout.",
+    "tips": [
+      "Keep lower back pressed down",
+      "Add leg extensions for difficulty",
+      "Rock forward and back if able"
+    ],
+    "muscles": ["Core", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  }
+}

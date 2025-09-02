@@ -1,0 +1,19 @@
+{
+  "id": "1A",
+  "title": "Workout 1A",
+  "blocks": [
+    {
+      "type": "circuit",
+      "items": [
+        { "id": "pike-stand", "name": "Pike Stand" },
+        { "id": "body-row",   "name": "Body Row" },
+        { "id": "lunge",      "name": "Lunge" },
+        { "id": "hollow",     "name": "Hollow Body Crunch" }
+      ],
+      "rounds": 4,
+      "restBetweenExercisesSec": 30,
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    }
+  ]
+}
