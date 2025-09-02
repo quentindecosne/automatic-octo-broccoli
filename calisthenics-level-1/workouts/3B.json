@@ -1,0 +1,87 @@
+{
+  "id": "3B",
+  "title": "Workout 3B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "push-up",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 120
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "jumping-lunge",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 1, "max": 999 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "pause": 0, "up": "X" },
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "knee-to-elbow",
+          "exerciseId": "knee-to-elbow",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "toFailure": "last"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 120
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "arch-up",
+          "exerciseId": "arch-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "pause": 2, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

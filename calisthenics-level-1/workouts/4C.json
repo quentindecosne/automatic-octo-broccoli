@@ -1,10 +1,10 @@
 {
-  "id": "3A",
-  "title": "Workout 3A",
+  "id": "4C",
+  "title": "Workout 4C",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 4,
+      "rounds": 6,
       "items": [
         {
           "id": "band-assist-pull-up",
@@ -13,7 +13,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "intensityType": 8,
-            "tempo": { "down": "X" , "pause": 0, "up": 2 },
+            "tempo": { "down": "X", "up": 2 },
             "toFailure": "none"
           },
           "restAfterSec": 120
@@ -25,18 +25,18 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "intensityType": 8,
-            "tempo": { "down": 2, "pause": 0, "up": "X" },
+            "tempo": { "down": 1, "up": "X" },
             "toFailure": "none"
           },
           "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 180,
+      "restBetweenRoundsSec": 0,
       "postBlockRestSec": 180
     },
     {
-      "type": "straight",
-      "rounds": 4,
+      "type": "circuit",
+      "rounds": 6,
       "items": [
         {
           "id": "step-up",
@@ -45,31 +45,25 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "intensityType": 8,
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "tempo": { "down": 2, "up": 2 },
             "toFailure": "none"
-          }
-        }
-      ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 180
-    },
-    {
-      "type": "straight",
-      "rounds": 4,
-      "items": [
+          },
+          "restAfterSec": 120
+        },
         {
-          "id": "single-leg-glute-bridge",
-          "exerciseId": "single-leg-glute-bridge",
+          "id": "single-leg-glute-bridge-raise",
+          "exerciseId": "single-leg-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
             "target": { "reps": { "min": 8, "max": 15 } },
             "intensityType": 8,
             "tempo": { "down": 1, "pause": 2, "up": 1 },
             "toFailure": "none"
-          }
+          },
+          "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 120
+      "restBetweenRoundsSec": 0
     }
   ]
 }

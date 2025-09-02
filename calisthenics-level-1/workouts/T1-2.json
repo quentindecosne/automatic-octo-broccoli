@@ -1,0 +1,99 @@
+{
+  "id": "T1-2",
+  "title": "Test 1-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "easy-bridge-raise",
+          "exerciseId": "easy-bridge-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 20, "max": 20 } },
+            "tempo": { "down": 1, "pause": 2, "up": 1 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "squat",
+          "exerciseId": "squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": "RM",
+            "tempo": { "down": 2, "pause": 0, "up": 1 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "pike-hold",
+          "exerciseId": "pike-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "plank",
+          "exerciseId": "plank",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "horse-stance",
+          "exerciseId": "horse-stance",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 50 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    }
+  ]
+}

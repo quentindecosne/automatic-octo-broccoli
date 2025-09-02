@@ -1,0 +1,81 @@
+{
+  "id": "T2-3",
+  "title": "Test 2-3",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "band-assist-pull-up",
+          "exerciseId": "band-assist-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "intensityType": 10,
+            "tempo": { "down": { "kind": "x" }, "pause": 0, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-up",
+          "exerciseId": "step-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "band-assist-dip",
+          "exerciseId": "band-assist-dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "pause": 0, "up": { "kind": "x" } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "single-leg-glute-bridge-raise",
+          "exerciseId": "single-leg-glute-bridge-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

@@ -1,42 +1,282 @@
 {
   "pike-stand": {
-    "description": "Start in a downward dog position with hands on the ground. Walk your feet closer to your hands while keeping legs straight. Hold this inverted V position.",
+    "description": "From a downward-dog shape, walk your feet toward your hands to stack hips over shoulders as much as mobility allows. Hold the inverted V position while pressing the floor away.",
     "tips": [
-      "Keep your back straight",
-      "Push through your shoulders",
-      "Look at your hands, not your feet"
+      "Push tall through shoulders; don't sink",
+      "Keep legs straight and heels lifted",
+      "Gaze between hands; breathe steadily"
     ],
-    "muscles": ["Shoulders", "Core", "Hamstrings"],
+    "muscles": ["Shoulders", "Traps", "Core", "Hamstrings"],
     "difficulty": "Beginner"
   },
   "body-row": {
-    "description": "Lie under a bar or table. Grab the bar with an overhand grip and pull your chest up towards it. Lower yourself back down with control.",
+    "description": "Under a low bar or sturdy table, hold an overhand grip and keep your body straight like a plank as you pull your chest to the bar, then lower under control.",
     "tips": [
-      "Keep your body straight like a plank",
-      "Pull your chest to the bar",
-      "Control the descent"
+      "Squeeze shoulder blades together",
+      "Keep ribs down and glutes tight",
+      "Touch chest to bar each rep if possible"
     ],
-    "muscles": ["Lats", "Rhomboids", "Biceps"],
+    "muscles": ["Lats", "Rhomboids", "Rear Delts", "Biceps", "Core"],
     "difficulty": "Beginner"
   },
   "lunge": {
-    "description": "Step forward into a lunge position. Lower your back knee toward the ground while keeping your front knee over your ankle. Push back to starting position.",
+    "description": "Step forward and lower your back knee toward the floor while keeping the front knee stacked over the ankle. Drive through the front foot to stand.",
     "tips": [
-      "Keep your torso upright",
-      "Don't let your front knee go past your toes",
-      "Control the descent"
+      "Keep torso tall and hips square",
+      "Front knee tracks over toes",
+      "Push through mid-foot/heel to rise"
     ],
-    "muscles": ["Quadriceps", "Glutes", "Calves"],
+    "muscles": ["Quadriceps", "Glutes", "Hamstrings", "Calves", "Core"],
     "difficulty": "Beginner"
   },
   "hollow-body-crunch": {
-    "description": "Lie on your back with arms extended overhead. Press your lower back into the ground and lift your shoulders and legs off the floor into a hollow position.",
+    "description": "Lie supine, flatten your lower back to the floor, lift shoulders and legs to create a hollow curve, then perform small controlled crunches without losing the hollow.",
     "tips": [
-      "Keep lower back pressed to floor",
-      "Engage your core throughout",
-      "Keep arms and legs straight"
+      "Lower back glued to floor",
+      "Reach long through fingers and toes",
+      "Move slow; keep ribs down"
     ],
-    "muscles": ["Core", "Hip Flexors"],
+    "muscles": ["Rectus Abdominis", "Transverse Abdominis", "Hip Flexors"],
+    "difficulty": "Beginner"
+  },
+  "incline-push-up": {
+    "description": "Hands on a box/bench, body in a straight line. Lower chest toward the surface and press back to lockout without losing plank tension.",
+    "tips": [
+      "Screw hands into surface to engage lats",
+      "Elbows ~30–45° from torso",
+      "Keep glutes & abs tight (no sagging)"
+    ],
+    "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
+    "difficulty": "Beginner"
+  },
+  "active-hang": {
+    "description": "Hang from a pull-up bar with straight arms and engage shoulders by pulling them slightly down and back (scapular depression/retraction). Hold without bending elbows.",
+    "tips": [
+      "Think 'shoulders to back pockets'",
+      "Keep ribs down; avoid shrugging",
+      "Grip the bar evenly and breathe"
+    ],
+    "muscles": ["Lats", "Lower Traps", "Forearms", "Core"],
+    "difficulty": "Beginner"
+  },
+  "easy-bridge": {
+    "description": "Lie on your back with knees bent and feet flat. Squeeze glutes to lift hips until knees, hips, and shoulders form a straight line; lower with control.",
+    "tips": [
+      "Drive through heels",
+      "Posterior tilt pelvis (ribs down)",
+      "Squeeze glutes at the top"
+    ],
+    "muscles": ["Glutes", "Hamstrings", "Lower Back", "Core"],
+    "difficulty": "Beginner"
+  },
+  "easy-bridge-raise": {
+    "description": "From the bridge position, perform controlled reps—lift hips to full extension and lower without touching down fully to keep tension.",
+    "tips": [
+      "Avoid arching lower back",
+      "Pause briefly at full extension",
+      "Keep knees tracking over feet"
+    ],
+    "muscles": ["Glutes", "Hamstrings", "Lower Back"],
+    "difficulty": "Beginner"
+  },
+  "plank": {
+    "description": "Forearms on floor, body in a straight line from head to heels. Brace the core and glutes, keeping a neutral spine while breathing calmly.",
+    "tips": [
+      "Push floor away; protract shoulder blades",
+      "Squeeze glutes to neutralize pelvis",
+      "Keep head in line with spine"
+    ],
+    "muscles": ["Core", "Shoulders", "Glutes"],
+    "difficulty": "Beginner"
+  },
+  "horse-stance": {
+    "description": "Stand with feet wide and toes slightly out. Sink hips to a half-squat and hold the position with an upright torso.",
+    "tips": [
+      "Knees track over toes",
+      "Keep chest lifted and core braced",
+      "Distribute weight mid-foot"
+    ],
+    "muscles": ["Quadriceps", "Adductors", "Glutes", "Calves", "Core"],
+    "difficulty": "Beginner"
+  },
+  "band-assist-pull-up": {
+    "description": "With a band looped on the bar and under your knee/foot, pull from a dead hang until chin clears the bar, then lower slowly.",
+    "tips": [
+      "Set shoulders before pulling",
+      "Drive elbows down toward ribs",
+      "Control the descent"
+    ],
+    "muscles": ["Lats", "Biceps", "Lower Traps", "Forearms", "Core"],
+    "difficulty": "Beginner"
+  },
+  "band-assist-dip": {
+    "description": "With a band assisting at the knees or feet, lower on parallel bars until shoulders dip below elbows, then press to lockout.",
+    "tips": [
+      "Keep shoulders down & back",
+      "Slight forward lean for chest focus",
+      "Lock out with elbow control"
+    ],
+    "muscles": ["Chest", "Triceps", "Front Delts", "Lower Traps", "Core"],
+    "difficulty": "Beginner"
+  },
+  "step-up": {
+    "description": "Place one foot on a box/step. Drive through the whole foot to stand tall on the box, then lower with control and alternate.",
+    "tips": [
+      "Lean slightly forward to load glute",
+      "Avoid pushing off the back leg",
+      "Control the eccentric"
+    ],
+    "muscles": ["Glutes", "Quadriceps", "Hamstrings", "Calves"],
+    "difficulty": "Beginner"
+  },
+  "single-leg-glute-bridge": {
+    "description": "Lie supine, one foot planted, the other leg extended. Drive the planted heel to lift hips, keeping pelvis level, then lower with control.",
+    "tips": [
+      "Keep hips square (no tilt/rotation)",
+      "Press through heel and squeeze glute",
+      "Pause briefly at top"
+    ],
+    "muscles": ["Glute Max", "Hamstrings", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "single-leg-glute-bridge-raise": {
+    "description": "Perform controlled reps of the single-leg bridge, lifting and lowering through full hip extension while maintaining pelvic control.",
+    "tips": [
+      "Keep knee of working leg tracking forward",
+      "Brace core to prevent arching",
+      "Slow eccentric; steady tempo"
+    ],
+    "muscles": ["Glute Max", "Hamstrings", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "push-up": {
+    "description": "From a high plank, lower chest toward the floor with elbows ~45° to torso, then press back to full extension without losing body line.",
+    "tips": [
+      "Hands just outside shoulder width",
+      "Keep body rigid—no hips sagging",
+      "Exhale as you press"
+    ],
+    "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "jumping-lunge": {
+    "description": "Jump explosively from a lunge and switch legs mid-air, landing softly into the opposite lunge. Maintain torso control throughout.",
+    "tips": [
+      "Abs tight; land quietly",
+      "Use arms for rhythm",
+      "Control knee alignment on landing"
+    ],
+    "muscles": ["Quadriceps", "Glutes", "Calves", "Hamstrings", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "knee-to-elbow": {
+    "description": "From a plank, drive one knee toward the same-side elbow with control, then return and alternate sides.",
+    "tips": [
+      "Keep hips level",
+      "Protract shoulders (push the floor)",
+      "Move knee with slow control"
+    ],
+    "muscles": ["Core", "Obliques", "Hip Flexors", "Shoulders"],
+    "difficulty": "Beginner"
+  },
+  "knee-to-elbow-plank": {
+    "description": "Hold a strong forearm plank and bring one knee toward the same-side elbow, pausing briefly, then alternate.",
+    "tips": [
+      "Keep pelvis neutral",
+      "Avoid shrugging shoulders",
+      "Exhale as knee approaches elbow"
+    ],
+    "muscles": ["Core", "Obliques", "Hip Flexors", "Shoulders"],
+    "difficulty": "Beginner"
+  },
+  "arch-up": {
+    "description": "Lying prone, lift chest and legs off the floor by squeezing glutes and upper back, creating an arch through the spine.",
+    "tips": [
+      "Squeeze glutes first",
+      "Reach long through fingers and toes",
+      "Keep neck neutral"
+    ],
+    "muscles": ["Spinal Erectors", "Glutes", "Hamstrings", "Rear Delts"],
+    "difficulty": "Beginner"
+  },
+  "hanging-leg-raise": {
+    "description": "Hang from a bar and lift straight legs until hips flex; aim to raise feet to hip height or higher without swinging.",
+    "tips": [
+      "Posteriorly tilt pelvis (tuck) as legs rise",
+      "Control the negative",
+      "Keep shoulders engaged (active hang)"
+    ],
+    "muscles": ["Hip Flexors", "Lower Abs", "Lats", "Forearms"],
+    "difficulty": "Intermediate"
+  },
+  "prone-arm-circles": {
+    "description": "Lying prone, lift arms slightly off the floor and make slow controlled circles without shrugging shoulders.",
+    "tips": [
+      "Keep ribs down and glutes lightly engaged",
+      "Move from shoulders, not lower back",
+      "Small, smooth circles"
+    ],
+    "muscles": ["Rear Delts", "Rotator Cuff", "Mid/Lower Traps"],
+    "difficulty": "Beginner"
+  },
+  "prone-arm-circle": {
+    "description": "Single-direction/one-arm variation of prone arm circles focusing on scapular control and shoulder endurance.",
+    "tips": [
+      "Keep forehead lightly on floor",
+      "Avoid upper-trap shrug",
+      "Slow tempo; full control"
+    ],
+    "muscles": ["Rear Delts", "Rotator Cuff", "Mid/Lower Traps"],
+    "difficulty": "Beginner"
+  },
+  "jumping-squat": {
+    "description": "Squat down and explode upward into a jump, landing softly and immediately moving into the next rep with control.",
+    "tips": [
+      "Load hips and keep chest proud",
+      "Land quietly; absorb with hips",
+      "Knees track over toes"
+    ],
+    "muscles": ["Quadriceps", "Glutes", "Calves", "Hamstrings", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "pike-hold": {
+    "description": "Seated on the floor with legs together and straight, lift heels and feet off the ground while leaning slightly forward, holding a compressed pike.",
+    "tips": [
+      "Press hands firmly into floor",
+      "Lift from hip flexors; lock knees",
+      "Keep spine long; avoid rounding"
+    ],
+    "muscles": ["Hip Flexors", "Quads", "Lower Abs"],
+    "difficulty": "Intermediate"
+  },
+  "swimmer": {
+    "description": "Lying prone, lift opposite arm and leg alternately in a fluttering motion while keeping the trunk stable.",
+    "tips": [
+      "Small, controlled lifts",
+      "Squeeze glutes to protect low back",
+      "Keep head neutral"
+    ],
+    "muscles": ["Spinal Erectors", "Glutes", "Rear Delts", "Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "side-squat": {
+    "description": "Stand wide and sit back into one hip, keeping the other leg straight. Push through the bent leg to return to center.",
+    "tips": [
+      "Foot of bent leg stays flat",
+      "Keep chest up and spine long",
+      "Feel a stretch on the straight leg"
+    ],
+    "muscles": ["Adductors", "Quadriceps", "Glutes", "Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "squat": {
+    "description": "With feet shoulder-width, sit the hips down and back while keeping chest lifted and knees tracking over toes. Stand to full extension.",
+    "tips": [
+      "Brace before you descend",
+      "Knees track with toes (no cave-in)",
+      "Heels stay grounded"
+    ],
+    "muscles": ["Quadriceps", "Glutes", "Hamstrings", "Calves", "Core"],
     "difficulty": "Beginner"
   }
 }

@@ -1,0 +1,101 @@
+{
+  "id": "T1-1",
+  "title": "Test 1-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "lunge",
+          "exerciseId": "lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "tempo": { "down": 1, "pause": 0, "up": 1 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "hollow-body-crunch",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "incline-push-up",
+          "exerciseId": "incline-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "side-squat",
+          "exerciseId": "side-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "intensityType": 10,
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    }
+  ]
+}

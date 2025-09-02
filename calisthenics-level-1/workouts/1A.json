@@ -12,6 +12,7 @@
           "prescription": {
             "mode": "time",
             "target": { "timeSec": { "min": 50, "max": 80 } },
+            "intensityType": "9",
             "toFailure": "none"
           },
           "restAfterSec": 30
@@ -34,7 +35,8 @@
           "prescription": {
             "mode": "reps",
             "target": { "reps": { "min": 15, "max": 25 } },
-            "tempo": { "down": 2, "pause": 0, "up": 2 },
+            "intensityType": "9",
+            "tempo": { "down": 1, "pause": 0, "up": 1 },
             "toFailure": "none"
           },
           "restAfterSec": 30
@@ -45,6 +47,7 @@
           "prescription": {
             "mode": "reps",
             "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": "9",
             "tempo": { "down": 2, "pause": 0, "up": 2 },
             "toFailure": "none"
           }

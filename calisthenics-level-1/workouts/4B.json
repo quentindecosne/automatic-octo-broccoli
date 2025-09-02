@@ -1,0 +1,97 @@
+{
+  "id": "4B",
+  "title": "Workout 4B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "push-up",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 90
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "jumping-lunge",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 1, "max": 999 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "up": "X" },
+            "toFailure": "last"
+          },
+          "restAfterSec": 120
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "hanging-leg-raise",
+          "exerciseId": "hanging-leg-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 120
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "prone-arm-circles",
+          "exerciseId": "prone-arm-circles",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 8,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "last"
+          },
+          "restAfterSec": 120
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

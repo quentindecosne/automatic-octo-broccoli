@@ -1,0 +1,77 @@
+{
+  "id": "T4-2",
+  "title": "Test 4-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "prone-arm-circle",
+          "exerciseId": "prone-arm-circle",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "jumping-squat",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 1, "max": 999 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": "X" },
+            "toFailure": "each"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "hollow-body-crunch",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "swimmer",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

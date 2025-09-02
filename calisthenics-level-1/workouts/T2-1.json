@@ -1,0 +1,57 @@
+{
+  "id": "T2-1",
+  "title": "Test 2-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "pike-hold",
+          "exerciseId": "pike-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          },
+          "restAfterSec": 300
+        },
+        {
+          "id": "active-hang",
+          "exerciseId": "active-hang",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          },
+          "restAfterSec": 300
+        },
+        {
+          "id": "easy-bridge",
+          "exerciseId": "easy-bridge",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 40 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          },
+          "restAfterSec": 300
+        },
+        {
+          "id": "plank",
+          "exerciseId": "plank",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "intensityType": 10,
+            "toFailure": "none"
+          },
+          "restAfterSec": 0
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

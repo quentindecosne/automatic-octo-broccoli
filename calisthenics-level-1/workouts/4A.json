@@ -1,0 +1,105 @@
+{
+  "id": "4A",
+  "title": "Workout 4A",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "push-up-a1",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 60,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "push-up-a2",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 60,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "jumping-squat",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 1, "max": 999 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": "X" },
+            "toFailure": "each"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 60,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "hollow-body-crunch",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": 10,
+            "tempo": { "down": 2, "up": 2 },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 60,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "swimmer",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "intensityType": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}
