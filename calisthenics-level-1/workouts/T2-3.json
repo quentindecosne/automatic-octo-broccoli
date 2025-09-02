@@ -51,7 +51,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "intensityType": 10,
-            "tempo": { "down": 2, "pause": 0, "up": { "kind": "x" } },
+            "tempo": { "down": 2, "pause": 0, "up": "X" },
             "toFailure": "none"
           }
         }
