@@ -1,4 +1,6 @@
   {
+    "id": "emom",
+    "title": "emom 1A",
     "type": "emom",
     "rounds": 10,
     "emomIntervalMin": 1,
