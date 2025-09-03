@@ -26,7 +26,8 @@
           "exerciseId": "tibialis-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 25, "max": 25 } }
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
           }
         },
         {
@@ -34,7 +35,8 @@
           "exerciseId": "fhl-calf-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 25, "max": 25 } }
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
           }
         },
         {
@@ -42,7 +44,8 @@
           "exerciseId": "kot-calf-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 25, "max": 25 } }
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
           }
         },
         {
@@ -50,7 +53,8 @@
           "exerciseId": "patrick-step",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 25, "max": 25 } }
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
           }
         },
         {
@@ -67,7 +71,8 @@
           "exerciseId": "kot-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 5, "max": 5 } }
+            "target": { "reps": { "min": 5, "max": 5 } },
+            "toFailure": "none"
           }
         },
         {
@@ -75,7 +80,8 @@
           "exerciseId": "elephant-walk",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 30, "max": 30 } }
+            "target": { "reps": { "min": 30, "max": 30 } },
+            "toFailure": "none"
           }
         },
         {
@@ -83,7 +89,8 @@
           "exerciseId": "l-sit",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 60, "max": 60 } }
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
           }
         },
         {
@@ -91,7 +98,8 @@
           "exerciseId": "couch-stretch",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 60, "max": 60 } }
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
           }
         },
         {
@@ -99,7 +107,8 @@
           "exerciseId": "outer-glute-stretch",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 60, "max": 60 } }
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
           }
         }
       ],
