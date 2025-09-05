@@ -1,0 +1,15 @@
+{
+      "id": "dead-hang",
+      "title": "Dead Hang Practice",
+      "blocks": [
+        {
+          "type": "straight",
+          "rounds": 3,
+          "items": [
+            { "id": "h1", "exerciseId": "dead-hang",
+              "prescription": { "mode": "time", "target": { "timeSec": { "min": 20, "max": 40 } } } }
+          ],
+          "restBetweenRoundsSec": 60
+        }
+      ]
+  }

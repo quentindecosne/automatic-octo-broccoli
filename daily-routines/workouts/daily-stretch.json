@@ -1,0 +1,27 @@
+ {
+      "id": "daily-stretch",
+      "title": "Daily Full-Body Stretch",
+      "blocks": [
+        {
+          "type": "straight",
+          "rounds": 1,
+          "items": [
+            { "id": "s1", "exerciseId": "cat-cow",
+              "prescription": { "mode": "time", "target": { "timeSec": { "min": 30, "max": 45 } } } },
+            { "id": "s2", "exerciseId": "childs-pose",
+              "prescription": { "mode": "time", "target": { "timeSec": { "min": 45, "max": 60 } } } },
+            { "id": "s3", "exerciseId": "pigeon-stretch",
+              "prescription": { "mode": "time", "target": { "timeSec": { "min": 30, "max": 45 } } } },
+            { "id": "s4", "exerciseId": "hamstring-stretch",
+              "prescription": { "mode": "time", "target": { "timeSec": { "min": 30, "max": 45 } } } },
+            { "id": "s5", "exerciseId": "shoulder-pass-through",
+              "prescription": {
+                "mode": "reps",
+                "target": { "reps": { "min": 8, "max": 12 } },
+                "tempo": { "down": 1, "pause": 1, "up": 1 }
+              } }
+          ],
+          "postBlockRestSec": 0
+        }
+      ]
+  }

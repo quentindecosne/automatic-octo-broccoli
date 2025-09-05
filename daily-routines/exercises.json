@@ -1,0 +1,38 @@
+{
+      "cat-cow": {
+        "description": "Move through spinal flexion and extension.",
+        "tips": ["Inhale as you extend, exhale as you round", "Keep movement controlled"],
+        "muscles": ["Spine", "Core"],
+        "difficulty": "Easy"
+      },
+      "childs-pose": {
+        "description": "Kneeling forward fold to relax back and hips.",
+        "tips": ["Relax shoulders", "Breathe slowly"],
+        "muscles": ["Back", "Hips"],
+        "difficulty": "Easy"
+      },
+      "pigeon-stretch": {
+        "description": "Hip external rotation stretch.",
+        "tips": ["Square your hips", "Support with props if needed"],
+        "muscles": ["Glutes", "Hips"],
+        "difficulty": "Moderate"
+      },
+      "hamstring-stretch": {
+        "description": "Posterior chain stretch.",
+        "tips": ["Keep a neutral spine", "Hinge at hips"],
+        "muscles": ["Hamstrings"],
+        "difficulty": "Easy"
+      },
+      "shoulder-pass-through": {
+        "description": "PVC/band shoulder mobility drill.",
+        "tips": ["Keep elbows straight", "Go slow"],
+        "muscles": ["Shoulders"],
+        "difficulty": "Easy"
+      },
+      "dead-hang": {
+        "description": "Passive hang from a bar.",
+        "tips": ["Relax shoulders down", "Keep gentle hollow body"],
+        "muscles": ["Forearms", "Shoulders", "Grip"],
+        "difficulty": "Moderate"
+      }
+  }
