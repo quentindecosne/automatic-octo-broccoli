@@ -1,0 +1,55 @@
+{
+  "id": "support-circuit",
+  "title": "Support Circuit",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 2,
+      "items": [
+        {
+          "id": "s1",
+          "exerciseId": "dead_hang_active",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } }
+          }
+        },
+        {
+          "id": "s2",
+          "exerciseId": "kb_swing",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } }
+          }
+        },
+        {
+          "id": "s3",
+          "exerciseId": "pallof_press",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 12 } },
+            "side": "each"
+          }
+        },
+        {
+          "id": "s4",
+          "exerciseId": "band_pull_apart",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 12, "max": 15 } }
+          }
+        },
+        {
+          "id": "s5",
+          "exerciseId": "couch_stretch",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 45 } },
+            "side": "each"
+          }
+        }
+      ],
+      "postBlockRestSec": 60
+    }
+  ]
+}

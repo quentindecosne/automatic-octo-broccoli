@@ -1,0 +1,56 @@
+{
+  "dead_hang_active": {
+    "description": "Start with a passive hang, relax shoulders. After 30s, engage scapula to pull slightly without bending arms and hold for another 30s.",
+    "tips": ["Relax first, then engage scapula", "Avoid shrugging shoulders", "Keep core slightly braced"],
+    "muscles": ["Forearms", "Shoulders", "Lats"],
+    "difficulty": "Medium"
+  },
+  "kb_swing": {
+    "description": "Hinge at hips, swing kettlebell between legs and explosively extend hips to swing to chest height.",
+    "tips": ["Hinge, don't squat", "Drive from hips, not arms", "Squeeze glutes at top"],
+    "muscles": ["Glutes", "Hamstrings", "Core"],
+    "difficulty": "Medium"
+  },
+  "pallof_press": {
+    "description": "Press band straight from chest and hold to resist rotation.",
+    "tips": ["Keep core tight", "Do not let torso twist", "Control the return"],
+    "muscles": ["Obliques", "Core"],
+    "difficulty": "Medium"
+  },
+  "band_pull_apart": {
+    "description": "Hold resistance band at chest level, pull apart until shoulder blades squeeze together.",
+    "tips": ["Keep arms straight", "Control on return", "Squeeze upper back"],
+    "muscles": ["Rear Delts", "Trapezius", "Rhomboids"],
+    "difficulty": "Easy"
+  },
+  "couch_stretch": {
+    "description": "Stretch hip flexors by placing back foot on wall or bench behind you, keeping torso upright.",
+    "tips": ["Squeeze glutes", "Keep ribs down", "Don't arch lower back"],
+    "muscles": ["Hip Flexors", "Quads"],
+    "difficulty": "Easy"
+  },
+  "glute_bridge": {
+    "description": "Lie on your back with knees bent, lift hips by driving through heels, squeeze glutes at top.",
+    "tips": ["Keep ribs down", "Squeeze glutes fully", "Don't arch lower back"],
+    "muscles": ["Glutes", "Hamstrings"],
+    "difficulty": "Easy"
+  },
+  "single_leg_rdl": {
+    "description": "Balance on one leg, hinge forward at hips while extending opposite leg backward.",
+    "tips": ["Maintain balance", "Keep spine neutral", "Control descent"],
+    "muscles": ["Hamstrings", "Glutes", "Core"],
+    "difficulty": "Medium"
+  },
+  "hollow_hold": {
+    "description": "Lie on back, lift legs and shoulders, keep lower back pressed to floor.",
+    "tips": ["Engage core", "Keep arms and legs extended", "Breathe steadily"],
+    "muscles": ["Core", "Hip Flexors"],
+    "difficulty": "Medium"
+  },
+  "child_pose": {
+    "description": "Sit back on heels, reach arms forward, and relax torso toward floor.",
+    "tips": ["Relax shoulders", "Breathe deeply"],
+    "muscles": ["Back", "Hips"],
+    "difficulty": "Easy"
+  }
+}

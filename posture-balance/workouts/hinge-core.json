@@ -1,0 +1,55 @@
+{
+  "id": "hinge-core",
+  "title": "Hinge & Core",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 2,
+      "items": [
+        {
+          "id": "h1",
+          "exerciseId": "glute_bridge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 12, "max": 15 } }
+          }
+        },
+        {
+          "id": "h2",
+          "exerciseId": "single_leg_rdl",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 12 } },
+            "side": "each"
+          }
+        },
+        {
+          "id": "h3",
+          "exerciseId": "hollow_hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 45 } }
+          }
+        },
+        {
+          "id": "h4",
+          "exerciseId": "pallof_press",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 12 } },
+            "side": "each"
+          }
+        },
+        {
+          "id": "h5",
+          "exerciseId": "child_pose",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 45, "max": 60 } }
+          }
+        }
+      ],
+      "postBlockRestSec": 60
+    }
+  ]
+}

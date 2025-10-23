@@ -1,0 +1,8 @@
+{
+  "programId": "posture-balance",
+  "programTitle": "Posture & Balance",
+  "contentVersion": "1.0.0",
+  "phases": [],
+  "kind": "routine",
+  "iconName": "figure.cooldown"
+}
