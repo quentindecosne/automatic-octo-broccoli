@@ -1,10 +1,10 @@
 {
-  "id": "4C",
-  "title": "Workout 4C",
+  "id": "3A-2",
+  "title": "Workout 3A",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 5,
+      "rounds": 4,
       "items": [
         {
           "id": "band-assist-pull-up",
@@ -16,7 +16,7 @@
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": "X", "up": 2 }
+            "tempo": { "down": "X", "pause": 0, "up": 2 }
           },
           "restAfterSec": 120
         },
@@ -30,17 +30,17 @@
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 1, "up": "X" }
+            "tempo": { "down": 2, "pause": 0, "up": "X" }
           },
           "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 0,
+      "restBetweenRoundsSec": 180,
       "postBlockRestSec": 180
     },
     {
-      "type": "circuit",
-      "rounds": 5,
+      "type": "straight",
+      "rounds": 4,
       "items": [
         {
           "id": "step-up",
@@ -52,13 +52,20 @@
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "up": 2 }
-          },
-          "restAfterSec": 120
-        },
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
         {
-          "id": "single-leg-glute-bridge-raise",
-          "exerciseId": "single-leg-glute-bridge-raise",
+          "id": "single-leg-glute-bridge",
+          "exerciseId": "single-leg-glute-bridge",
           "prescription": {
             "mode": "reps",
             "target": {
@@ -67,11 +74,10 @@
             "rpe": 8,
             "toFailure": "none",
             "tempo": { "down": 1, "pause": 2, "up": 1 }
-          },
-          "restAfterSec": 120
+          }
         }
       ],
-      "restBetweenRoundsSec": 0
+      "restBetweenRoundsSec": 120
     }
   ]
 }

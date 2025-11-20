@@ -1,10 +1,10 @@
 {
-  "id": "4C",
+  "id": "4C-2",
   "title": "Workout 4C",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 5,
+      "rounds": 6,
       "items": [
         {
           "id": "band-assist-pull-up",
@@ -40,7 +40,7 @@
     },
     {
       "type": "circuit",
-      "rounds": 5,
+      "rounds": 6,
       "items": [
         {
           "id": "step-up",

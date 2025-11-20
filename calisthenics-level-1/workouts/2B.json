@@ -3,7 +3,7 @@
   "title": "Workout 2B",
   "blocks": [
     {
-      "type": "circuit",
+      "type": "straight",
       "rounds": 3,
       "items": [
         {
@@ -11,59 +11,74 @@
           "exerciseId": "incline-push-up",
           "prescription": {
             "mode": "reps",
-            "target": {
-              "reps": { "min": 15, "max": 25 }
-            },
-            "rpe": 9,
-            "toFailure": "none",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
             "tempo": { "down": 2, "pause": 0, "up": 2 }
-          },
-          "restAfterSec": 20
-        },
-        {
-          "id": "easy-bridge-raise",
-          "exerciseId": "easy-bridge-raise",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": { "min": 20, "max": 20 }
-            },
-            "rpe": 9,
-            "toFailure": "none",
-            "tempo": { "down": 1, "pause": 2, "up": 1 }
-          },
-          "restAfterSec": 20
-        },
-        {
-          "id": "squat",
-          "exerciseId": "squat",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": { "min": 15, "max": 25 }
-            },
-            "rpe": 9,
-            "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 1 }
-          },
-          "restAfterSec": 20
-        },
-        {
-          "id": "plank",
-          "exerciseId": "plank",
-          "prescription": {
-            "mode": "time",
-            "target": {
-              "timeSec": { "min": 50, "max": 80 }
-            },
-            "rpe": 9,
-            "toFailure": "none",
-            "tempo": null
-          },
-          "restAfterSec": 0
+          }
         }
       ],
-      "restBetweenRoundsSec": 90
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "jumping-squat",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": null },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 1, "pause": 0, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "swimmer",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
     }
   ]
 }

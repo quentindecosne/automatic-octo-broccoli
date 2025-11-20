@@ -34,9 +34,9 @@
                 {
                     "weekNumber": 3,
                     "pattern": [
-                        "1A",
+                        "1A-2",
                         "REST",
-                        "1B",
+                        "1B-2",
                         "REST",
                         "REST",
                         "REST",
@@ -46,11 +46,11 @@
                 {
                     "weekNumber": 4,
                     "pattern": [
-                        "1A",
+                        "1A-2",
                         "REST",
-                        "1B",
+                        "1B-2",
                         "REST",
-                        "1A",
+                        "1A-2",
                         "REST",
                         "REST"
                     ]
@@ -100,9 +100,9 @@
                 {
                     "weekNumber": 8,
                     "pattern": [
-                        "2A",
+                        "2A-2",
                         "REST",
-                        "2B",
+                        "2B-2",
                         "REST",
                         "2C",
                         "REST",
@@ -112,11 +112,11 @@
                 {
                     "weekNumber": 9,
                     "pattern": [
-                        "2A",
+                        "2A-2",
                         "REST",
-                        "2B",
+                        "2B-2",
                         "REST",
-                        "2C",
+                        "2C-2",
                         "REST",
                         "REST"
                     ]
@@ -144,9 +144,9 @@
                     "pattern": [
                         "3A",
                         "REST",
-                        "3A",
-                        "REST",
                         "3B",
+                        "REST",
+                        "3C",
                         "REST",
                         "REST"
                     ]
@@ -156,9 +156,9 @@
                     "pattern": [
                         "3A",
                         "REST",
-                        "3A",
-                        "REST",
                         "3B",
+                        "REST",
+                        "3C-2",
                         "REST",
                         "REST"
                     ]
@@ -166,11 +166,11 @@
                 {
                     "weekNumber": 13,
                     "pattern": [
-                        "3A",
-                        "REST",
-                        "3A",
+                        "3A-2",
                         "REST",
                         "3B",
+                        "REST",
+                        "3C-3",
                         "REST",
                         "REST"
                     ]
@@ -178,11 +178,11 @@
                 {
                     "weekNumber": 14,
                     "pattern": [
-                        "3A",
-                        "REST",
-                        "3A",
+                        "3A-2",
                         "REST",
                         "3B",
+                        "REST",
+                        "3C-4",
                         "REST",
                         "REST"
                     ]
@@ -232,11 +232,11 @@
                 {
                     "weekNumber": 18,
                     "pattern": [
-                        "4A",
+                        "4A-2",
                         "REST",
-                        "4B",
+                        "4B=2",
                         "REST",
-                        "4C",
+                        "4C-2",
                         "REST",
                         "REST"
                     ]
@@ -244,11 +244,11 @@
                 {
                     "weekNumber": 19,
                     "pattern": [
-                        "4A",
+                        "4A-2",
                         "REST",
-                        "4B",
+                        "4B-2",
                         "REST",
-                        "4C",
+                        "4C-2",
                         "REST",
                         "REST"
                     ]

@@ -1,6 +1,6 @@
 {
-  "id": "4B",
-  "title": "Workout 4B",
+  "id": "3C-2",
+  "title": "Workout 3C",
   "blocks": [
     {
       "type": "circuit",
@@ -16,9 +16,9 @@
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": { "down": 1, "up": 1 }
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
-          "restAfterSec": 90
+          "restAfterSec": 60
         },
         {
           "id": "push-up",
@@ -30,16 +30,16 @@
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": { "down": 1, "up": 1 }
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
-          "restAfterSec": 90
+          "restAfterSec": 60
         }
       ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 180
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 120
     },
     {
-      "type": "straight",
+      "type": "circuit",
       "rounds": 4,
       "items": [
         {
@@ -52,21 +52,13 @@
             },
             "rpe": 10,
             "toFailure": "last",
-            "tempo": { "down": 1, "up": "X" }
+            "tempo": { "down": 1, "pause": 0, "up": "X" }
           },
-          "restAfterSec": 120
-        }
-      ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 180
-    },
-    {
-      "type": "straight",
-      "rounds": 4,
-      "items": [
+          "restAfterSec": 60
+        },
         {
-          "id": "hanging-leg-raise",
-          "exerciseId": "hanging-leg-raise",
+          "id": "knee-to-elbow",
+          "exerciseId": "knee-to-elbow",
           "prescription": {
             "mode": "reps",
             "target": {
@@ -76,32 +68,31 @@
             "toFailure": "last",
             "tempo": { "down": 1, "up": 1 }
           },
-          "restAfterSec": 120
+          "restAfterSec": 60
         }
       ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 180
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 120
     },
     {
       "type": "straight",
       "rounds": 4,
       "items": [
         {
-          "id": "prone-arm-circles",
-          "exerciseId": "prone-arm-circles",
+          "id": "arch-up",
+          "exerciseId": "arch-up",
           "prescription": {
             "mode": "reps",
             "target": {
               "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
-            "toFailure": "last",
-            "tempo": { "down": 1, "up": 1 }
-          },
-          "restAfterSec": 120
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
+          }
         }
       ],
-      "restBetweenRoundsSec": 0
+      "restBetweenRoundsSec": 120
     }
   ]
 }

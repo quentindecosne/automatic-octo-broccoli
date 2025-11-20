@@ -4,7 +4,7 @@
   "blocks": [
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 4,
       "items": [
         {
           "id": "pike-stand",
@@ -24,7 +24,7 @@
 
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 4,
       "items": [
         {
           "id": "active-hang",
@@ -44,7 +44,7 @@
 
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 4,
       "items": [
         {
           "id": "easy-bridge",
@@ -64,7 +64,7 @@
 
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 4,
       "items": [
         {
           "id": "plank",

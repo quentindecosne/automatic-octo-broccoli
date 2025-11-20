@@ -1,10 +1,10 @@
 {
-  "id": "4B",
+  "id": "4B-2",
   "title": "Workout 4B",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "body-row",
@@ -40,7 +40,7 @@
     },
     {
       "type": "straight",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "jumping-lunge",
@@ -62,7 +62,7 @@
     },
     {
       "type": "straight",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "hanging-leg-raise",
@@ -84,7 +84,7 @@
     },
     {
       "type": "straight",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "prone-arm-circles",

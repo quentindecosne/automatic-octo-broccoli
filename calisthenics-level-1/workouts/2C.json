@@ -11,45 +11,28 @@
           "exerciseId": "band-assist-pull-up",
           "prescription": {
             "mode": "reps",
-            "target": {
-              "reps": { "min": 3, "max": 8 }
-            },
+            "target": { "reps": { "min": 3, "max": 8 } },
             "rpe": 8,
-            "toFailure": "none",
+            "toFailure": "last",
             "tempo": { "down": "X", "up": 2 }
-          }
-        },
-        {
-          "id": "band-assist-dip",
-          "exerciseId": "band-assist-dip",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": { "min": 3, "max": 8 }
-            },
-            "rpe": 8,
-            "toFailure": "none",
-            "tempo": { "down": 2, "up": "X" }
           }
         }
       ],
-      "restBetweenRoundsSec": 120,
+      "restBetweenRoundsSec": 180,
       "postBlockRestSec": 180
     },
     {
       "type": "straight",
-      "rounds": 5,
+      "rounds": 4,
       "items": [
         {
           "id": "step-up",
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": {
-              "reps": { "min": 3, "max": 8 }
-            },
+            "target": { "reps": { "min": 3, "max": 8 } },
             "rpe": 8,
-            "toFailure": "none",
+            "toFailure": "last",
             "tempo": { "down": 2, "up": 2 }
           }
         }
@@ -59,23 +42,40 @@
     },
     {
       "type": "straight",
-      "rounds": 5,
+      "rounds": 4,
+      "items": [
+        {
+          "id": "band-assist-dip",
+          "exerciseId": "band-assist-dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
       "items": [
         {
           "id": "single-leg-glute-bridge",
           "exerciseId": "single-leg-glute-bridge",
           "prescription": {
             "mode": "reps",
-            "target": {
-              "reps": { "min": 8, "max": 15 }
-            },
+            "target": { "reps": { "min": 8, "max": 15 } },
             "rpe": 8,
-            "toFailure": "none",
+            "toFailure": "last",
             "tempo": { "down": 1, "pause": 0, "up": 2 }
           }
         }
       ],
-      "restBetweenRoundsSec": 120
+      "restBetweenRoundsSec": 180
     }
   ]
 }
