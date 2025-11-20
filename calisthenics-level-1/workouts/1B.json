@@ -4,7 +4,7 @@
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 3,
+      "rounds": 2,
       "items": [
         {
           "id": "incline-push-up",
