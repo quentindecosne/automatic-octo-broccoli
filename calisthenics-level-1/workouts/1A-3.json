@@ -1,0 +1,68 @@
+{
+  "id": "1A-3",
+  "title": "Workout 1A",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "pike-stand",
+          "exerciseId": "pike-stand",
+          "prescription": {
+            "mode": "time",
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "horse-stance",
+          "exerciseId": "horse-stance",
+          "prescription": {
+            "mode": "time",
+            "target": {
+              "timeSec": { "min": 30, "max": 50 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "hollow-body-crunch",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

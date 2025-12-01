@@ -1,0 +1,69 @@
+{
+  "id": "1B-3",
+  "title": "Workout 1B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "incline-push-up",
+          "exerciseId": "incline-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 20
+        },
+        {
+          "id": "easy-bridge-raise",
+          "exerciseId": "easy-bridge-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 20, "max": 20 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
+          },
+          "restAfterSec": 20
+        },
+        {
+          "id": "side-squat",
+          "exerciseId": "side-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 20
+        },
+        {
+          "id": "plank",
+          "exerciseId": "plank",
+          "prescription": {
+            "mode": "time",
+            "target": {
+              "timeSec": { "min": 50, "max": 80 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 0
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

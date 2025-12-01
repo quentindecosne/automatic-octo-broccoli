@@ -46,11 +46,11 @@
                 {
                     "weekNumber": 4,
                     "pattern": [
-                        "1A-2",
+                        "1A-3",
                         "REST",
-                        "1B-2",
+                        "1B-3",
                         "REST",
-                        "1A-2",
+                        "1A-3",
                         "REST",
                         "REST"
                     ]
