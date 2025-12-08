@@ -1,7 +1,7 @@
 {
     "programId": "calisthenics-level-1",
     "programTitle": "Calisthenics – Level 1",
-    "contentVersion": "1.1.0",
+    "contentVersion": "1.1.1",
     "phases": [
         {
             "id": "P1",
