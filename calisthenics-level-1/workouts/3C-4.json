@@ -87,7 +87,7 @@
               "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
-            "toFailure": "none",
+            "toFailure": "last",
             "tempo": { "down": 1, "pause": 2, "up": 1 }
           }
         }

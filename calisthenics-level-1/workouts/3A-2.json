@@ -40,7 +40,7 @@
     },
     {
       "type": "straight",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "step-up",

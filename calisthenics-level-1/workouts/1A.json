@@ -29,7 +29,7 @@
               "reps": { "min": 15, "max": 25 }
             },
             "rpe": 9,
-            "toFailure": "last",
+            "toFailure": "none",
             "tempo": { "down": 2, "pause": 0, "up": 2 }
           },
           "restAfterSec": 30

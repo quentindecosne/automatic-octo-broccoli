@@ -13,7 +13,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "rpe": 8,
-            "toFailure": "last",
+            "toFailure": "none",
             "tempo": { "down": "X", "up": 2 }
           }
         }
@@ -32,7 +32,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "rpe": 8,
-            "toFailure": "last",
+            "toFailure": "none",
             "tempo": { "down": 2, "up": 2 }
           }
         }
@@ -51,7 +51,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 8 } },
             "rpe": 8,
-            "toFailure": "last",
+            "toFailure": "none",
             "tempo": { "down": 2, "up": "X" }
           }
         }
@@ -70,7 +70,7 @@
             "mode": "reps",
             "target": { "reps": { "min": 8, "max": 15 } },
             "rpe": 8,
-            "toFailure": "last",
+            "toFailure": "none",
             "tempo": { "down": 1, "pause": 0, "up": 2 }
           }
         }

@@ -14,7 +14,7 @@
             "target": {
               "reps": { "min": 8, "max": 15 }
             },
-            "rpe": 7,
+            "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
           },
@@ -36,7 +36,7 @@
             "target": {
               "reps": { "min": 8, "max": 15 }
             },
-            "rpe": 7,
+            "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
           },
@@ -80,7 +80,7 @@
             "target": {
               "reps": { "min": 15, "max": 25 }
             },
-            "rpe": 8,
+            "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 2, "up": 2 }
           },
@@ -102,7 +102,7 @@
             "target": {
               "reps": { "min": 15, "max": 25 }
             },
-            "rpe": 8,
+            "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
           },
