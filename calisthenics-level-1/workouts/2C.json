@@ -75,7 +75,7 @@
           }
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120
     }
   ]
 }

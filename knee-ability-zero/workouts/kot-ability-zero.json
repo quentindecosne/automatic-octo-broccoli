@@ -7,21 +7,6 @@
       "rounds": 1,
       "items": [
         {
-          "id": "warmup-1",
-          "exerciseId": "reverse-out-knee-pain",
-          "prescription": {
-            "mode": "time",
-            "target": { "timeSec": { "min": 60, "max": 90 } }
-          }
-        }
-      ],
-      "restBetweenRoundsSec": 30
-    },
-    {
-      "type": "straight",
-      "rounds": 1,
-      "items": [
-        {
           "id": "step-1",
           "exerciseId": "tibialis-raise",
           "prescription": {
