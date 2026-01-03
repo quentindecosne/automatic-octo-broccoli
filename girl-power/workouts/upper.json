@@ -1,0 +1,113 @@
+{
+  "id": "upper",
+  "title": "Upper",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-1",
+          "exerciseId": "pull-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 3 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-2",
+          "exerciseId": "push-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 12, "max": 12 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-3",
+          "exerciseId": "bar-bench",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "step-4",
+          "exerciseId": "bar-rows",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "step-5",
+          "exerciseId": "lateral-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "step-6",
+          "exerciseId": "skull",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "step-7",
+          "exerciseId": "bicep-curls",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "step-8",
+          "exerciseId": "flies",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-9",
+          "exerciseId": "farmer-carry",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}
