@@ -4,7 +4,7 @@
   "blocks": [
     {
       "type": "straight",
-      "rounds": 10,
+      "rounds": 8,
       "items": [
         {
           "id": "step-1",
