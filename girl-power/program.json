@@ -1,7 +1,7 @@
 {
   "programId": "girl-power",
   "programTitle": "Girl Power",
-  "contentVersion": "1.0.1",
+  "contentVersion": "1.0.2",
   "phases": [
     {
       "id": "P1",
@@ -9,7 +9,7 @@
       "weeks": [
         {
           "weekNumber": 1,
-          "pattern": ["REST", "REST", "REST", "upper", "REST", "REST", "REST"]
+          "pattern": ["monday", "REST", "REST", "thursday", "friday", "REST", "REST"]
         }
       ]
     }

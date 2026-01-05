@@ -1,0 +1,88 @@
+{
+  "id": "monday",
+  "title": "Monday",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 10,
+      "items": [
+        {
+          "id": "step-1",
+          "exerciseId": "abs-mob",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 10
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "step-2",
+          "exerciseId": "rdl-curl-squat-thrust",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "step-3",
+          "exerciseId": "squat-lat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 12, "max": 12 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "step-4",
+          "exerciseId": "sumo-curl",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 16, "max": 16 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "step-5",
+          "exerciseId": "lunge-front-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 18, "max": 18 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "step-6",
+          "exerciseId": "deadlift-clean-press",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 12, "max": 12 } },
+            "toFailure": "none"
+          },
+          "restAfterSec": 60
+        },
+        {
+          "id": "step-7",
+          "exerciseId": "bridge-skull-crush",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 14, "max": 14 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    }
+  ]
+}

@@ -1,91 +1,6 @@
 {
-  "pull-up": {
-    "description": "Hang from a pull-up bar with straight arms, then pull until your chin clears the bar. Lower back down under control.",
-    "tips": [
-      "Set shoulders down before pulling (avoid shrugging)",
-      "Keep ribs down and core tight (no swinging)",
-      "Control the descent—don’t drop"
-    ],
-    "muscles": ["Lats", "Biceps", "Forearms", "Mid/Lower Traps", "Core"],
-    "difficulty": "Intermediate"
-  },
-  "pull-ups": {
-    "description": "Hang from a pull-up bar with straight arms, then pull until your chin clears the bar. Lower back down under control.",
-    "tips": [
-      "Set shoulders down before pulling (avoid shrugging)",
-      "Keep ribs down and core tight (no swinging)",
-      "Control the descent—don’t drop"
-    ],
-    "muscles": ["Lats", "Biceps", "Forearms", "Mid/Lower Traps", "Core"],
-    "difficulty": "Intermediate"
-  },
-
-  "push-up": {
-    "description": "From a high plank, lower chest toward the floor with elbows ~45° to torso, then press back to full extension without losing body line.",
-    "tips": [
-      "Hands just outside shoulder width",
-      "Keep body rigid—no hips sagging",
-      "Exhale as you press"
-    ],
-    "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
-    "difficulty": "Intermediate"
-  },
-  "push-ups": {
-    "description": "From a high plank, lower chest toward the floor with elbows ~45° to torso, then press back to full extension without losing body line.",
-    "tips": [
-      "Hands just outside shoulder width",
-      "Keep body rigid—no hips sagging",
-      "Exhale as you press"
-    ],
-    "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
-    "difficulty": "Intermediate"
-  },
-
-  "bar-bench": {
-    "description": "Lie on a bench and press a bar from chest level to lockout, then lower it with control.",
-    "tips": [
-      "Plant feet and keep your upper back tight",
-      "Lower to mid-chest with wrists stacked over elbows",
-      "Press up smoothly—don’t bounce off the chest"
-    ],
-    "muscles": ["Chest", "Triceps", "Front Delts"],
-    "difficulty": "Intermediate"
-  },
-
-  "bar-row": {
-    "description": "Hinge at the hips with a flat back and row the bar toward your lower ribs/upper stomach, then lower with control.",
-    "tips": [
-      "Keep spine neutral and brace your core",
-      "Pull elbows back and squeeze shoulder blades",
-      "Avoid jerking—use controlled reps"
-    ],
-    "muscles": ["Lats", "Rhomboids", "Rear Delts", "Biceps", "Core"],
-    "difficulty": "Intermediate"
-  },
-  "bar-rows": {
-    "description": "Hinge at the hips with a flat back and row the bar toward your lower ribs/upper stomach, then lower with control.",
-    "tips": [
-      "Keep spine neutral and brace your core",
-      "Pull elbows back and squeeze shoulder blades",
-      "Avoid jerking—use controlled reps"
-    ],
-    "muscles": ["Lats", "Rhomboids", "Rear Delts", "Biceps", "Core"],
-    "difficulty": "Intermediate"
-  },
-
-  "lateral-raise": {
-    "description": "Lift dumbbells out to the sides to shoulder height with a slight elbow bend, then lower slowly.",
-    "tips": [
-      "Lead with elbows (not hands)",
-      "Keep shoulders down (don’t shrug)",
-      "Control the lowering portion"
-    ],
-    "muscles": ["Side Delts", "Upper Traps"],
-    "difficulty": "Beginner"
-  },
-
-  "skull-crusher": {
-    "description": "Lying down, lower the weight toward your forehead by bending elbows, then extend elbows to press back up.",
+  "skull": {
+    "description": "Skull crushers: lying down, lower the weight toward your forehead by bending elbows, then extend elbows to press back up.",
     "tips": [
       "Keep elbows pointed up and fairly still",
       "Lower slowly—don’t flare elbows wide",
@@ -94,67 +9,94 @@
     "muscles": ["Triceps"],
     "difficulty": "Intermediate"
   },
-  "skull-crushers": {
-    "description": "Lying down, lower the weight toward your forehead by bending elbows, then extend elbows to press back up.",
+  "banded-glutes": {
+    "description": "Glute activation using a resistance band (e.g., lateral walks, kickbacks, abductions). Keep constant band tension.",
     "tips": [
-      "Keep elbows pointed up and fairly still",
-      "Lower slowly—don’t flare elbows wide",
-      "Stop if elbows feel sharp pain"
+      "Slow controlled reps",
+      "Knees track over toes",
+      "Feel glutes, not lower back"
     ],
-    "muscles": ["Triceps"],
+    "muscles": ["Glutes", "Hip Abductors"],
+    "difficulty": "Beginner"
+  },
+  "hip-thrust": {
+    "description": "Upper back supported, drive hips up and squeeze glutes at the top, then lower under control.",
+    "tips": [
+      "Ribs down, chin tucked",
+      "Push through heels",
+      "Pause and squeeze at the top"
+    ],
+    "muscles": ["Glutes", "Hamstrings"],
     "difficulty": "Intermediate"
   },
-
-  "bicep-curl": {
-    "description": "Curl the weight up by bending the elbows, keeping upper arms mostly still, then lower under control.",
+  "rdl": {
+    "description": "Romanian deadlift: hinge at the hips with neutral spine, lower until hamstrings stretch, then stand tall.",
     "tips": [
-      "Keep elbows close to your sides",
-      "Don’t swing—use strict form",
-      "Control the negative (lowering)"
+      "Soft knees, big hip hinge",
+      "Keep the weight close to legs",
+      "No rounding the back"
     ],
-    "muscles": ["Biceps", "Forearms"],
+    "muscles": ["Hamstrings", "Glutes", "Lower Back"],
+    "difficulty": "Intermediate"
+  },
+  "squat-of-choice": {
+    "description": "Choose any squat variation (goblet, back squat, front squat, etc.). Use a controlled range of motion.",
+    "tips": [
+      "Brace core",
+      "Knees track over toes",
+      "Control the descent"
+    ],
+    "muscles": ["Quads", "Glutes", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "bss": {
+    "description": "Bulgarian split squat. This plan uses 14 total reps (typically 7 each side).",
+    "tips": [
+      "Front foot flat and stable",
+      "Drop straight down",
+      "Push through midfoot/heel"
+    ],
+    "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "difficulty": "Intermediate"
+  },
+  "ham-curls": {
+    "description": "Hamstring curls (machine, band, Swiss-ball, or sliders). Curl heels toward glutes with control.",
+    "tips": [
+      "Control the lowering",
+      "Keep hips stable",
+      "Squeeze hamstrings at the top"
+    ],
+    "muscles": ["Hamstrings"],
     "difficulty": "Beginner"
   },
-  "bicep-curls": {
-    "description": "Curl the weight up by bending the elbows, keeping upper arms mostly still, then lower under control.",
+  "lunges": {
+    "description": "Lunges forward/backward or walking. Lower under control and drive back to standing.",
     "tips": [
-      "Keep elbows close to your sides",
-      "Don’t swing—use strict form",
-      "Control the negative (lowering)"
+      "Tall posture",
+      "Front knee tracks over toes",
+      "Push through front heel"
     ],
-    "muscles": ["Biceps", "Forearms"],
+    "muscles": ["Glutes", "Quads", "Hamstrings"],
     "difficulty": "Beginner"
   },
-
-  "fly": {
-    "description": "With a slight elbow bend, open arms wide and lower the weights until you feel a chest stretch, then bring them back together.",
+  "calf-raises": {
+    "description": "Rise onto the balls of your feet, pause at the top, then lower slowly to a stretch.",
     "tips": [
-      "Keep a soft bend in elbows throughout",
-      "Move slow—this is not a heavy lift",
-      "Stop before shoulder discomfort"
+      "Full range of motion",
+      "Pause at the top",
+      "Control the lowering"
     ],
-    "muscles": ["Chest", "Front Delts"],
+    "muscles": ["Calves"],
     "difficulty": "Beginner"
   },
-  "flies": {
-    "description": "With a slight elbow bend, open arms wide and lower the weights until you feel a chest stretch, then bring them back together.",
+  "bridge-skull-crush": {
+    "description": "Glute bridge while doing 1-dumbbell skull crushers. Keep hips up and elbows stable.",
     "tips": [
-      "Keep a soft bend in elbows throughout",
-      "Move slow—this is not a heavy lift",
-      "Stop before shoulder discomfort"
+      "Squeeze glutes the whole set",
+      "Keep ribs down",
+      "Elbows stay pointed up"
     ],
-    "muscles": ["Chest", "Front Delts"],
-    "difficulty": "Beginner"
-  },
-
-  "farmer-carry": {
-    "description": "Hold heavy weights at your sides with a tall posture and walk steadily for the prescribed time.",
-    "tips": [
-      "Stand tall—don’t lean or shrug",
-      "Brace your core and keep ribs down",
-      "Take short, controlled steps"
-    ],
-    "muscles": ["Grip", "Forearms", "Traps", "Core", "Glutes"],
-    "difficulty": "Beginner"
+    "muscles": ["Glutes", "Hamstrings", "Triceps", "Core"],
+    "difficulty": "Intermediate"
   }
 }
