@@ -13,7 +13,8 @@
             "mode": "reps",
             "target": { "reps": { "min": 3, "max": 3 } },
             "toFailure": "none"
-          }
+          },
+          "restAfterSec": 30
         },
         {
           "id": "step-2",
@@ -29,7 +30,7 @@
     },
     {
       "type": "straight",
-      "rounds": 1,
+      "rounds": 3,
       "items": [
         {
           "id": "step-3",
