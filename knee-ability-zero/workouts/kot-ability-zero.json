@@ -11,7 +11,7 @@
           "exerciseId": "tibialis-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 25, "max": 25 } },
+            "target": { "reps": { "min": 30, "max": 30 } },
             "toFailure": "none"
           }
         },
