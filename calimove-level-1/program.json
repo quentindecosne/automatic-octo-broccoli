@@ -1,7 +1,7 @@
 {
     "programId": "calisthenics-level-1",
     "programTitle": "Calimove – Level 1",
-    "contentVersion": "1.2",
+    "contentVersion": "1.0",
     "phases": [
         {
             "id": "P1",
