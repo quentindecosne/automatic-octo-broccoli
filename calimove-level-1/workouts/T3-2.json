@@ -80,6 +80,25 @@
           }
         }
       ]
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "arch-up",
+          "exerciseId": "arch-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "pause": 2, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ]
     }
   ]
 }
