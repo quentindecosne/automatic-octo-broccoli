@@ -35,7 +35,7 @@
           "restAfterSec": 60
         }
       ],
-      "restBetweenRoundsSec": 120,
+      "restBetweenRoundsSec": 60,
       "postBlockRestSec": 120
     },
     {
@@ -71,7 +71,7 @@
           "restAfterSec": 60
         }
       ],
-      "restBetweenRoundsSec": 120,
+      "restBetweenRoundsSec": 60,
       "postBlockRestSec": 120
     },
     {
