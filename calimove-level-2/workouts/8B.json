@@ -3,7 +3,7 @@
   "title": "Workout 8B",
   "blocks": [
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 5,
       "items": [
         {
@@ -11,10 +11,19 @@
           "exerciseId": "body-row",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 2
+            }
           },
           "restAfterSec": 120
         },
@@ -23,10 +32,19 @@
           "exerciseId": "push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         }
@@ -34,7 +52,7 @@
       "restBetweenRoundsSec": 180
     },
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 4,
       "items": [
         {
@@ -42,10 +60,19 @@
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         },
@@ -54,10 +81,19 @@
           "exerciseId": "sl-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 1, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 1,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         }

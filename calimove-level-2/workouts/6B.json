@@ -11,10 +11,19 @@
           "exerciseId": "pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
-            "toFailure": "failure",
-            "tempo": { "down": 2, "pause": 1, "up": 0 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 2,
+              "pause": 1,
+              "up": 0
+            }
           },
           "restAfterSec": 180
         },
@@ -23,10 +32,19 @@
           "exerciseId": "dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
-            "toFailure": "failure",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 2
+            }
           },
           "restAfterSec": 180
         },
@@ -35,10 +53,19 @@
           "exerciseId": "elevated-pistol-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
-            "toFailure": "failure",
-            "tempo": { "down": 3, "pause": 0, "up": 1 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 3,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 180
         },
@@ -47,10 +74,19 @@
           "exerciseId": "lying-knee-twist",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 8,
-            "toFailure": "failure",
-            "tempo": { "down": 1, "pause": 0, "up": 1 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 1,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 180
         }

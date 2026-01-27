@@ -3,7 +3,7 @@
   "title": "Test 7-1",
   "blocks": [
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 4,
       "items": [
         {
@@ -11,10 +11,19 @@
           "exerciseId": "pull-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         },
@@ -23,10 +32,19 @@
           "exerciseId": "dip",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 2
+            }
           },
           "restAfterSec": 120
         }
@@ -35,7 +53,7 @@
       "postBlockRestSec": 600
     },
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 4,
       "items": [
         {
@@ -43,10 +61,19 @@
           "exerciseId": "elevated-pistol-squat",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 3, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 3,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         },
@@ -55,10 +82,19 @@
           "exerciseId": "sl-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 8, "max": 15 } },
+            "target": {
+              "reps": {
+                "min": 8,
+                "max": 15
+              }
+            },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 1, "pause": 0, "up": 1 }
+            "tempo": {
+              "down": 1,
+              "pause": 0,
+              "up": 1
+            }
           },
           "restAfterSec": 120
         }

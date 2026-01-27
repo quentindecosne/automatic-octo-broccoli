@@ -13,7 +13,7 @@
             "mode": "totalReps",
             "target": {
               "totalReps": 50,
-              "repsPerSet": { "min": 15, "max": 25 }
+              "reps": { "min": 15, "max": 25 }
             },
             "rpe": 9,
             "toFailure": "none",
@@ -28,7 +28,7 @@
             "mode": "totalReps",
             "target": {
               "totalReps": 50,
-              "repsPerSet": { "min": 15, "max": 25 }
+              "reps": { "min": 15, "max": 25 }
             },
             "rpe": 9,
             "toFailure": "none",
@@ -43,7 +43,7 @@
             "mode": "totalReps",
             "target": {
               "totalReps": 50,
-              "repsPerSet": { "min": 15, "max": 25 }
+              "reps": { "min": 15, "max": 25 }
             },
             "rpe": 9,
             "toFailure": "none",
@@ -58,7 +58,7 @@
             "mode": "totalReps",
             "target": {
               "totalReps": 50,
-              "repsPerSet": { "min": 15, "max": 25 }
+              "reps": { "min": 15, "max": 25 }
             },
             "rpe": 9,
             "toFailure": "none",

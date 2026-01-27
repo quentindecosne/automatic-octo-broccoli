@@ -11,10 +11,19 @@
           "exerciseId": "pike-stand",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "target": {
+              "timeSec": {
+                "min": 50,
+                "max": 80
+              }
+            },
             "rpe": 9,
-            "toFailure": "failure",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 90
         },
@@ -23,10 +32,19 @@
           "exerciseId": "active-hang",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "target": {
+              "timeSec": {
+                "min": 15,
+                "max": 30
+              }
+            },
             "rpe": 9,
-            "toFailure": "failure",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 90
         },
@@ -35,10 +53,19 @@
           "exerciseId": "deep-squat",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 30, "max": 80 } },
+            "target": {
+              "timeSec": {
+                "min": 30,
+                "max": 80
+              }
+            },
             "rpe": 9,
-            "toFailure": "failure",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 90
         },
@@ -47,10 +74,19 @@
           "exerciseId": "arch-up",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "target": {
+              "timeSec": {
+                "min": 40,
+                "max": 80
+              }
+            },
             "rpe": 9,
-            "toFailure": "failure",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "toFailure": "last",
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 90
         }

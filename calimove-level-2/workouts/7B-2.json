@@ -3,7 +3,7 @@
   "title": "Workout 7B Variant",
   "blocks": [
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 5,
       "items": [
         {
@@ -11,10 +11,19 @@
           "exerciseId": "archer-bodyrow",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 2
+            }
           },
           "restAfterSec": 150
         },
@@ -23,10 +32,19 @@
           "exerciseId": "side-to-side-push-up",
           "prescription": {
             "mode": "reps",
-            "target": { "reps": { "min": 3, "max": 8 } },
+            "target": {
+              "reps": {
+                "min": 3,
+                "max": 8
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": {
+              "down": 2,
+              "pause": 0,
+              "up": 2
+            }
           },
           "restAfterSec": 150
         }
@@ -34,7 +52,7 @@
       "restBetweenRoundsSec": 180
     },
     {
-      "type": "superset",
+      "type": "circuit",
       "rounds": 5,
       "items": [
         {
@@ -42,10 +60,19 @@
           "exerciseId": "hollow-body-hold",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 30, "max": 45 } },
+            "target": {
+              "timeSec": {
+                "min": 30,
+                "max": 45
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 150
         },
@@ -54,10 +81,19 @@
           "exerciseId": "arch-up-hold",
           "prescription": {
             "mode": "time",
-            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "target": {
+              "timeSec": {
+                "min": 40,
+                "max": 80
+              }
+            },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": {
+              "down": 0,
+              "pause": 0,
+              "up": 0
+            }
           },
           "restAfterSec": 150
         }
