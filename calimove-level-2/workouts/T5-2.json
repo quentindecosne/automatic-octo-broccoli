@@ -1,0 +1,82 @@
+{
+  "id": "T5-2",
+  "title": "Test 5-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "pike-stand-T5-2",
+          "exerciseId": "pike-stand",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "active-hang-T5-2",
+          "exerciseId": "active-hang",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "jumping-squat-T5-2",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "hollow-body-crunch-T5-2",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    }
+  ]
+}

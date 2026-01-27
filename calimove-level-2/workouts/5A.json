@@ -1,0 +1,73 @@
+{
+  "id": "5A",
+  "title": "Workout 5A",
+  "blocks": [
+    {
+      "type": "accumulation",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up-5A",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "totalReps",
+            "target": {
+              "totalReps": 50,
+              "repsPerSet": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "body-row-5A",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "totalReps",
+            "target": {
+              "totalReps": 50,
+              "repsPerSet": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "jumping-squat-5A",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "totalReps",
+            "target": {
+              "totalReps": 50,
+              "repsPerSet": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "hollow-body-crunch-5A",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "totalReps",
+            "target": {
+              "totalReps": 50,
+              "repsPerSet": { "min": 15, "max": 25 }
+            },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 90
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

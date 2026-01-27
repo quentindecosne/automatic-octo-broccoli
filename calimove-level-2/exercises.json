@@ -1,128 +1,212 @@
 {
     "push-up": {
-          "description": "From a high plank, lower chest toward the floor with elbows ~45° to torso, then press back to full extension without losing body line.",
-          "tips": ["Hands just outside shoulder width", "Keep body rigid—no hips sagging", "Exhale as you press"],
-          "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
-          "difficulty": "Intermediate"
+        "description": "From a high plank, lower chest toward the floor \nwith elbows ~45° to torso, then press back to full extension without losing body line.",
+        "tips": [
+            "Hands just outside shoulder width",
+            "Keep body rigid—no hips sagging",
+            "Exhale as you press"
+        ],
+        "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
+        "difficulty": "Intermediate"
     },
     "body-row": {
-          "description": "Under a low bar or sturdy table, hold an overhand grip and keep your body straight like a plank as you pull your chest to the bar, then lower under control.",
-          "tips": ["Squeeze shoulder blades together", "Keep ribs down and glutes tight", "Touch chest to bar each rep if possible"],
-          "muscles": ["Lats", "Rhomboids", "Rear Delts", "Biceps", "Core"],
-          "difficulty": "Intermediate"
+        "description": "Under a low bar or sturdy table, hold an overhand \ngrip and keep your body straight like a plank as you pull your chest to the bar, then lower under control.",
+        "tips": [
+            "Squeeze shoulder blades together",
+            "Keep ribs down and glutes tight",
+            "Touch chest to bar each rep if possible"
+        ],
+        "muscles": ["Lats", "Rhomboids", "Rear Delts", "Biceps", "Core"],
+        "difficulty": "Intermediate"
     },
     "jumping-squat": {
-          "description": "Squat down and explode upward into a jump, landing softly and immediately moving into the next rep with control.",
-          "tips": ["Load hips and keep chest proud", "Land quietly; absorb with hips", "Knees track over toes"],
-          "muscles": ["Quadriceps", "Glutes", "Calves", "Hamstrings", "Core"],
-          "difficulty": "Intermediate"
+        "description": "Squat down and explode upward into a jump, landing\nsoftly and immediately moving into the next rep with control.",
+        "tips": [
+            "Load hips and keep chest proud",
+            "Land quietly; absorb with hips",
+            "Knees track over toes"
+        ],
+        "muscles": ["Quadriceps", "Glutes", "Calves", "Hamstrings", "Core"],
+        "difficulty": "Intermediate"
     },
     "hollow-body-crunch": {
-          "description": "Lie supine, flatten your lower back to the floor, lift shoulders and legs to create a hollow curve, then perform small controlled crunches.",
-          "tips": ["Lower back glued to floor", "Reach long through fingers and toes", "Move slow; keep ribs down"],
-          "muscles": ["Rectus Abdominis", "Transverse Abdominis", "Hip Flexors"],
-          "difficulty": "Intermediate"
+        "description": "Lie supine, flatten your lower back to the floor, \nlift shoulders and legs to create a hollow curve, then perform small controlled crunches.",
+        "tips": [
+            "Lower back glued to floor",
+            "Reach long through fingers and toes",
+            "Move slow; keep ribs down"
+        ],
+        "muscles": ["Rectus Abdominis", "Transverse Abdominis", "Hip Flexors"],
+        "difficulty": "Intermediate"
     },
     "pike-stand": {
-          "description": "From a downward-dog shape, walk your feet toward your hands to stack hips over shoulders. Hold the inverted V position while pressing the floor away.",
-          "tips": ["Push tall through shoulders; don't sink", "Keep legs straight and heels lifted", "Gaze between hands; breathe steadily"],
-          "muscles": ["Shoulders", "Traps", "Core", "Hamstrings"],
-          "difficulty": "Intermediate"
+        "description": "From a downward-dog shape, walk your feet toward \nyour hands to stack hips over shoulders. Hold the inverted V position while pressing the floor away.",
+        "tips": [
+            "Push tall through shoulders; don't sink",
+            "Keep legs straight and heels lifted",
+            "Gaze between hands; breathe steadily"
+        ],
+        "muscles": ["Shoulders", "Traps", "Core", "Hamstrings"],
+        "difficulty": "Intermediate"
     },
     "active-hang": {
-          "description": "Hang from a pull-up bar with straight arms and engage shoulders by pulling them slightly down and back. Hold without bending elbows.",
-          "tips": ["Think shoulders to back pockets", "Keep ribs down; avoid shrugging", "Grip the bar evenly and breathe"],
-          "muscles": ["Lats", "Lower Traps", "Forearms", "Core"],
-          "difficulty": "Intermediate"
+        "description": "Hang from a pull-up bar with straight arms and \nengage shoulders by pulling them slightly down and back. Hold without bending elbows.",
+        "tips": [
+            "Think shoulders to back pockets",
+            "Keep ribs down; avoid shrugging",
+            "Grip the bar evenly and breathe"
+        ],
+        "muscles": ["Lats", "Lower Traps", "Forearms", "Core"],
+        "difficulty": "Intermediate"
     },
     "deep-squat": {
-          "description": "Descend into the deepest squat your mobility allows, keeping heels grounded and spine neutral. Hold the bottom position.",
-          "tips": ["Keep chest up and back flat", "Push knees out over toes", "Breathe deeply and relax into the position"],
-          "muscles": ["Quadriceps", "Glutes", "Hip Flexors", "Calves", "Core"],
-          "difficulty": "Beginner"
+        "description": "Descend into the deepest squat your mobility allows, keeping heels grounded and spine neutral. Hold the bottom position.",
+        "tips": [
+            "Keep chest up and back flat",
+            "Push knees out over toes",
+            "Breathe deeply and relax into the position"
+        ],
+        "muscles": ["Quadriceps", "Glutes", "Hip Flexors", "Calves", "Core"],
+        "difficulty": "Beginner"
     },
     "arch-up": {
-          "description": "Lying prone, lift chest and legs off the floor by squeezing glutes and upper back, creating an arch through the spine.",
-          "tips": ["Squeeze glutes first", "Reach long through fingers and toes", "Keep neck neutral"],
-          "muscles": ["Spinal Erectors", "Glutes", "Hamstrings", "Rear Delts"],
-          "difficulty": "Beginner"
+        "description": "Lying prone, lift chest and legs off the floor by \nsqueezing glutes and upper back, creating an arch through the spine.",
+        "tips": [
+            "Squeeze glutes first",
+            "Reach long through fingers and toes",
+            "Keep neck neutral"
+        ],
+        "muscles": ["Spinal Erectors", "Glutes", "Hamstrings", "Rear Delts"],
+        "difficulty": "Beginner"
     },
     "horse-stance": {
-          "description": "Stand with feet wide and toes slightly out. Sink hips to a half-squat and hold the position with an upright torso.",
-          "tips": ["Knees track over toes", "Keep chest lifted and core braced", "Distribute weight mid-foot"],
-          "muscles": ["Quadriceps", "Adductors", "Glutes", "Calves", "Core"],
-          "difficulty": "Beginner"
+        "description": "Stand with feet wide and toes slightly out. Sink hips to a half-squat and hold the position with an upright torso.",
+        "tips": [
+            "Knees track over toes",
+            "Keep chest lifted and core braced",
+            "Distribute weight mid-foot"
+        ],
+        "muscles": ["Quadriceps", "Adductors", "Glutes", "Calves", "Core"],
+        "difficulty": "Beginner"
     },
     "swimmer": {
-          "description": "Lying prone, lift opposite arm and leg alternately in a fluttering motion while keeping the trunk stable.",
-          "tips": ["Small, controlled lifts", "Squeeze glutes to protect low back", "Keep head neutral"],
-          "muscles": ["Spinal Erectors", "Glutes", "Rear Delts", "Hamstrings"],
-          "difficulty": "Beginner"
+        "description": "Lying prone, lift opposite arm and leg alternately\nin a fluttering motion while keeping the trunk stable.",
+        "tips": [
+            "Small, controlled lifts",
+            "Squeeze glutes to protect low back",
+            "Keep head neutral"
+        ],
+        "muscles": ["Spinal Erectors", "Glutes", "Rear Delts", "Hamstrings"],
+        "difficulty": "Beginner"
     },
     "pull-up": {
-          "description": "From a dead hang, pull your body up until chin clears the bar, then lower with control back to full extension.",
-          "tips": ["Set shoulders before pulling", "Drive elbows down toward ribs", "Control the descent fully"],
-          "muscles": ["Lats", "Biceps", "Lower Traps", "Forearms", "Core"],
-          "difficulty": "Intermediate"
+        "description": "From a dead hang, pull your body up until chin clears the bar, then lower with control back to full extension.",
+        "tips": [
+            "Set shoulders before pulling",
+            "Drive elbows down toward ribs",
+            "Control the descent fully"
+        ],
+        "muscles": ["Lats", "Biceps", "Lower Traps", "Forearms", "Core"],
+        "difficulty": "Intermediate"
     },
     "dip": {
-          "description": "On parallel bars, lower your body until shoulders dip below elbows, then press back to lockout with control.",
-          "tips": ["Keep shoulders down and back", "Slight forward lean for chest focus", "Lock out with elbow control"],
-          "muscles": ["Chest", "Triceps", "Front Delts", "Lower Traps", "Core"],
-          "difficulty": "Intermediate"
+        "description": "On parallel bars, lower your body until shoulders dip below elbows, then press back to lockout with control.",
+        "tips": [
+            "Keep shoulders down and back",
+            "Slight forward lean for chest focus",
+            "Lock out with elbow control"
+        ],
+        "muscles": ["Chest", "Triceps", "Front Delts", "Lower Traps", "Core"],
+        "difficulty": "Intermediate"
     },
     "elevated-pistol-squat": {
-          "description": "Stand on an elevated surface on one leg. Lower into a single-leg squat while extending the other leg forward, then drive back up.",
-          "tips": ["Control the descent slowly", "Keep standing knee tracking over toes", "Use arms for balance"],
-          "muscles": ["Quadriceps", "Glutes", "Hamstrings", "Hip Flexors", "Core"],
-          "difficulty": "Intermediate"
+        "description": "Stand on an elevated surface on one leg. Lower into a single-leg squat while extending the other leg forward, then drive back up.",
+        "tips": [
+            "Control the descent slowly",
+            "Keep standing knee tracking over toes",
+            "Use arms for balance"
+        ],
+        "muscles": ["Quadriceps", "Glutes", "Hamstrings", "Hip Flexors", "Core"],
+        "difficulty": "Intermediate"
     },
     "lying-knee-twist": {
-          "description": "Lying supine with arms extended, bring knees toward chest then rotate them side to side while keeping shoulders grounded.",
-          "tips": ["Keep shoulders flat on floor", "Move knees slowly and controlled", "Breathe into the stretch"],
-          "muscles": ["Obliques", "Spinal Erectors", "Hip Flexors"],
-          "difficulty": "Beginner"
+        "description": "Lying supine with arms extended, bring knees toward chest then rotate them side to side while keeping shoulders grounded.",
+        "tips": [
+            "Keep shoulders flat on floor",
+            "Move knees slowly and controlled",
+            "Breathe into the stretch"
+        ],
+        "muscles": ["Obliques", "Spinal Erectors", "Hip Flexors"],
+        "difficulty": "Beginner"
     },
     "hollow-body-hold": {
-          "description": "Lie supine, press lower back into floor, lift shoulders and legs creating a hollow banana shape. Hold the position.",
-          "tips": ["Lower back must stay pressed to floor", "Arms extended overhead or by sides", "Breathe shallowly, maintain tension"],
-          "muscles": ["Rectus Abdominis", "Transverse Abdominis", "Hip Flexors"],
-          "difficulty": "Intermediate"
+        "description": "Lie supine, press lower back into floor, lift shoulders and legs creating a hollow banana shape. Hold the position.",
+        "tips": [
+            "Lower back must stay pressed to floor",
+            "Arms extended overhead or by sides",
+            "Breathe shallowly, maintain tension"
+        ],
+        "muscles": ["Rectus Abdominis", "Transverse Abdominis", "Hip Flexors"],
+        "difficulty": "Intermediate"
     },
     "sl-glute-bridge-raise": {
-          "description": "Perform controlled reps of the single-leg bridge, lifting and lowering through full hip extension while maintaining pelvic control.",
-          "tips": ["Keep knee of working leg tracking forward", "Brace core to prevent arching", "Slow eccentric; steady tempo"],
-          "muscles": ["Glute Max", "Hamstrings", "Core"],
-          "difficulty": "Intermediate"
+        "description": "Perform controlled reps of the single-leg bridge, lifting and lowering through full hip extension while maintaining pelvic control.",
+        "tips": [
+            "Keep knee of working leg tracking forward",
+            "Brace core to prevent arching",
+            "Slow eccentric; steady tempo"
+        ],
+        "muscles": ["Glute Max", "Hamstrings", "Core"],
+        "difficulty": "Intermediate"
     },
     "archer-bodyrow": {
-          "description": "In the body row position, perform rows while extending one arm to the side, shifting weight to the pulling arm.",
-          "tips": ["Keep body rigid throughout", "Pull with one arm while the other assists minimally", "Control the extension"],
-          "muscles": ["Lats", "Rhomboids", "Biceps", "Core", "Rear Delts"],
-          "difficulty": "Advanced"
+        "description": "In the body row position, perform rows while extending one arm to the side, shifting weight to the pulling arm.",
+        "tips": [
+            "Keep body rigid throughout",
+            "Pull with one arm while the other assists minimally",
+            "Control the extension"
+        ],
+        "muscles": ["Lats", "Rhomboids", "Biceps", "Core", "Rear Delts"],
+        "difficulty": "Advanced"
     },
     "side-to-side-push-up": {
-          "description": "From push-up position, shift weight to one side while lowering, then push up and shift to the other side.",
-          "tips": ["Keep hips level throughout", "Control the weight shift", "Full range of motion on each side"],
-          "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
-          "difficulty": "Advanced"
+        "description": "From push-up position, shift weight to one side while lowering, then push up and shift to the other side.",
+        "tips": [
+            "Keep hips level throughout",
+            "Control the weight shift",
+            "Full range of motion on each side"
+        ],
+        "muscles": ["Chest", "Triceps", "Front Delts", "Core"],
+        "difficulty": "Advanced"
     },
     "arch-up-hold": {
-          "description": "Lying prone, lift chest and legs off the floor and hold the arched position with sustained muscle tension.",
-          "tips": ["Squeeze glutes throughout", "Keep arms extended and active", "Breathe steadily while holding"],
-          "muscles": ["Spinal Erectors", "Glutes", "Hamstrings", "Rear Delts"],
-          "difficulty": "Intermediate"
+        "description": "Lying prone, lift chest and legs off the floor and hold the arched position with sustained muscle tension.",
+        "tips": [
+            "Squeeze glutes throughout",
+            "Keep arms extended and active",
+            "Breathe steadily while holding"
+        ],
+        "muscles": ["Spinal Erectors", "Glutes", "Hamstrings", "Rear Delts"],
+        "difficulty": "Intermediate"
     },
     "archer-squat": {
-          "description": "Stand wide, shift weight to one leg while squatting, keeping the other leg straight. Alternate sides.",
-          "tips": ["Keep chest up throughout", "Bent knee tracks over toes", "Feel stretch in straight leg"],
-          "muscles": ["Quadriceps", "Glutes", "Adductors", "Hamstrings"],
-          "difficulty": "Intermediate"
+        "description": "Stand wide, shift weight to one leg while squatting, keeping the other leg straight. Alternate sides.",
+        "tips": [
+            "Keep chest up throughout",
+            "Bent knee tracks over toes",
+            "Feel stretch in straight leg"
+        ],
+        "muscles": ["Quadriceps", "Glutes", "Adductors", "Hamstrings"],
+        "difficulty": "Intermediate"
     },
     "step-up": {
-          "description": "Place one foot on a box/step. Drive through the whole foot to stand tall on the box, then lower with control.",
-          "tips": ["Lean slightly forward to load glute", "Avoid pushing off the back leg", "Control the eccentric"],
-          "muscles": ["Glutes", "Quadriceps", "Hamstrings", "Calves"],
-          "difficulty": "Intermediate"
+        "description": "Place one foot on a box/step. Drive through the whole foot to stand tall on the box, then lower with control.",
+        "tips": [
+            "Lean slightly forward to load glute",
+            "Avoid pushing off the back leg",
+            "Control the eccentric"
+        ],
+        "muscles": ["Glutes", "Quadriceps", "Hamstrings", "Calves"],
+        "difficulty": "Intermediate"
     }
 }

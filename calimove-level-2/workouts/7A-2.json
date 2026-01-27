@@ -1,0 +1,68 @@
+{
+  "id": "7A-2",
+  "title": "Workout 7A Variant",
+  "blocks": [
+    {
+      "type": "superset",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "pull-up-7A2",
+          "exerciseId": "pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 150
+        },
+        {
+          "id": "dip-7A2",
+          "exerciseId": "dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 150
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    },
+    {
+      "type": "superset",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "elevated-pistol-squat-7A2",
+          "exerciseId": "elevated-pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 3, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 150
+        },
+        {
+          "id": "sl-glute-bridge-raise-7A2",
+          "exerciseId": "sl-glute-bridge-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 150
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    }
+  ]
+}

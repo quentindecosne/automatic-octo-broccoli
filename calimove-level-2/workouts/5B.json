@@ -1,0 +1,61 @@
+{
+  "id": "5B",
+  "title": "Workout 5B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "pike-stand-5B",
+          "exerciseId": "pike-stand",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 80 } },
+            "rpe": 9,
+            "toFailure": "failure",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "active-hang-5B",
+          "exerciseId": "active-hang",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "rpe": 9,
+            "toFailure": "failure",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "deep-squat-5B",
+          "exerciseId": "deep-squat",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 80 } },
+            "rpe": 9,
+            "toFailure": "failure",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "arch-up-5B",
+          "exerciseId": "arch-up",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "rpe": 9,
+            "toFailure": "failure",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 90
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

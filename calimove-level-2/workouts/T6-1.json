@@ -1,0 +1,82 @@
+{
+  "id": "T6-1",
+  "title": "Test 6-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up-T6-1",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "body-row-T6-1",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "horse-stance-T6-1",
+          "exerciseId": "horse-stance",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 60 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "swimmer-T6-1",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    }
+  ]
+}

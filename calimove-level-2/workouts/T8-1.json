@@ -1,0 +1,82 @@
+{
+  "id": "T8-1",
+  "title": "Test 8-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "elevated-pistol-squat-T8-1",
+          "exerciseId": "elevated-pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 3, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "pull-up-T8-1",
+          "exerciseId": "pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "archer-squat-T8-1",
+          "exerciseId": "archer-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-up-T8-1",
+          "exerciseId": "step-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    }
+  ]
+}

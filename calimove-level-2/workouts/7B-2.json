@@ -1,0 +1,68 @@
+{
+  "id": "7B-2",
+  "title": "Workout 7B Variant",
+  "blocks": [
+    {
+      "type": "superset",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "archer-bodyrow-7B2",
+          "exerciseId": "archer-bodyrow",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 150
+        },
+        {
+          "id": "side-to-side-push-up-7B2",
+          "exerciseId": "side-to-side-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 150
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    },
+    {
+      "type": "superset",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "hollow-body-hold-7B2",
+          "exerciseId": "hollow-body-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 45 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 150
+        },
+        {
+          "id": "arch-up-hold-7B2",
+          "exerciseId": "arch-up-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 80 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 150
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    }
+  ]
+}

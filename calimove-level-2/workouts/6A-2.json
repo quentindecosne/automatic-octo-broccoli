@@ -1,0 +1,61 @@
+{
+  "id": "6A-2",
+  "title": "Workout 6A Variant",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "push-up-6A2",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "failure",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 180
+        },
+        {
+          "id": "body-row-6A2",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "failure",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 180
+        },
+        {
+          "id": "horse-stance-6A2",
+          "exerciseId": "horse-stance",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 60 } },
+            "rpe": 8,
+            "toFailure": "failure",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          },
+          "restAfterSec": 180
+        },
+        {
+          "id": "swimmer-6A2",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "failure",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 180
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    }
+  ]
+}

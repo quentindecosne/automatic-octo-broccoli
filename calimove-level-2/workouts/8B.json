@@ -1,0 +1,68 @@
+{
+  "id": "8B",
+  "title": "Workout 8B",
+  "blocks": [
+    {
+      "type": "superset",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "body-row-8B",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          },
+          "restAfterSec": 120
+        },
+        {
+          "id": "push-up-8B",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 120
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    },
+    {
+      "type": "superset",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "step-up-8B",
+          "exerciseId": "step-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 120
+        },
+        {
+          "id": "sl-glute-bridge-raise-8B",
+          "exerciseId": "sl-glute-bridge-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 120
+        }
+      ],
+      "restBetweenRoundsSec": 180
+    }
+  ]
+}

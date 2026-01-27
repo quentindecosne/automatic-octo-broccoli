@@ -1,0 +1,82 @@
+{
+  "id": "T5-1",
+  "title": "Test 5-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up-T5-1",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "body-row-T5-1",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "deep-squat-T5-1",
+          "exerciseId": "deep-squat",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "arch-up-T5-1",
+          "exerciseId": "arch-up",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    }
+  ]
+}
