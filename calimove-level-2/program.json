@@ -1,0 +1,107 @@
+{
+    "programId": "calisthenics-level-2",
+    "programTitle": "Calimove – Level 2",
+    "contentVersion": "1.0",
+    "phases": [
+          {
+                  "id": "P5",
+                  "title": "Phase 5",
+                  "weeks": [
+                            {
+                                        "weekNumber": 1,
+                                        "pattern": ["T5-1", "REST", "REST", "T5-2", "REST", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 2,
+                                        "pattern": ["5A", "REST", "5A", "REST", "5B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 3,
+                                        "pattern": ["5A", "REST", "5A", "REST", "5B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 4,
+                                        "pattern": ["5A", "REST", "5A", "REST", "5B", "REST", "REST"]
+                            }
+                  ]
+          },
+          {
+                  "id": "P6",
+                  "title": "Phase 6",
+                  "weeks": [
+                            {
+                                        "weekNumber": 5,
+                                        "pattern": ["T6-1", "REST", "REST", "T6-2", "REST", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 6,
+                                        "pattern": ["6A", "REST", "6B", "REST", "6A", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 7,
+                                        "pattern": ["6B", "REST", "6A", "REST", "6B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 8,
+                                        "pattern": ["6A", "REST", "6B", "REST", "6A", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 9,
+                                        "pattern": ["6B", "REST", "6A", "REST", "6B", "REST", "REST"]
+                            }
+                  ]
+          },
+          {
+                  "id": "P7",
+                  "title": "Phase 7",
+                  "weeks": [
+                            {
+                                        "weekNumber": 10,
+                                        "pattern": ["T7-1", "REST", "REST", "T7-2", "REST", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 11,
+                                        "pattern": ["7A", "REST", "7B", "REST", "7A", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 12,
+                                        "pattern": ["7B", "REST", "7A", "REST", "7B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 13,
+                                        "pattern": ["7A", "REST", "7B", "REST", "7A", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 14,
+                                        "pattern": ["7B", "REST", "7A", "REST", "7B", "REST", "REST"]
+                            }
+                  ]
+          },
+          {
+                  "id": "P8",
+                  "title": "Phase 8",
+                  "weeks": [
+                            {
+                                        "weekNumber": 15,
+                                        "pattern": ["T8-1", "REST", "REST", "T8-2", "REST", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 16,
+                                        "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 17,
+                                        "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 18,
+                                        "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+                            },
+                            {
+                                        "weekNumber": 19,
+                                        "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+                            }
+                  ]
+          }
+    ]
+}
