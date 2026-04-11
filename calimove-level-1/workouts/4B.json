@@ -101,7 +101,7 @@
           "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 120
+      "restBetweenRoundsSec": 180
     }
   ]
 }
