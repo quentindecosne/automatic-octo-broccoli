@@ -35,7 +35,7 @@
           "restAfterSec": 90
         }
       ],
-      "restBetweenRoundsSec": 180,
+      "restBetweenRoundsSec": 90,
       "postBlockRestSec": 180
     },
     {
@@ -54,10 +54,9 @@
             "toFailure": "last",
             "tempo": { "down": 1, "up": "X" }
           },
-          "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 180,
+      "restBetweenRoundsSec": 120,
       "postBlockRestSec": 180
     },
     {
@@ -76,10 +75,9 @@
             "toFailure": "last",
             "tempo": { "down": 1, "up": 1 }
           },
-          "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 180,
+      "restBetweenRoundsSec": 120,
       "postBlockRestSec": 180
     },
     {
@@ -98,10 +96,9 @@
             "toFailure": "last",
             "tempo": { "down": 1, "up": 1 }
           },
-          "restAfterSec": 120
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120
     }
   ]
 }
